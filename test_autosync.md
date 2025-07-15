@@ -1,0 +1,1 @@
+# GinieMinne AutoSync Test
