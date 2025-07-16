@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Wed Jul 16 22:15:01 CEST 2025
+🧱 [FIREWALL] Thu Jul 17 00:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -103,6 +103,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/ginie_keyload.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/validate_keys.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/Scripts/validate_keys.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/g.autosave.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.autosave.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/ginie_dashboard.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/ginie_dashboard.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/launch_nanotec.sh
