@@ -1,0 +1,1 @@
+/Users/christerolsen/GinieSystem/Agents/telegram_notify.sh

@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Wed Jul 16 14:15:00 CEST 2025
+🧱 [FIREWALL] Wed Jul 16 16:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -27,8 +27,12 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Earn/reinvest.sh
 🧪 /Users/christerolsen/GinieSystem/Earn/earn_mission.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Earn/earn_mission.sh
+🧪 /Users/christerolsen/GinieSystem/Agents/telegram_notify.sh
+✅ OK: /Users/christerolsen/GinieSystem/Agents/telegram_notify.sh
 🧪 /Users/christerolsen/GinieSystem/Agents/g.mailreader/g.mailreader.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Agents/g.mailreader/g.mailreader.sh
+🧪 /Users/christerolsen/GinieSystem/Agents/telegram_repair_restart.sh
+✅ OK: /Users/christerolsen/GinieSystem/Agents/telegram_repair_restart.sh
 🧪 /Users/christerolsen/GinieSystem/Symbiose/ginie_symbiose_app.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Symbiose/ginie_symbiose_app.sh
 🧪 /Users/christerolsen/GinieSystem/ScriptVersions/g.learn_2025-07-15T16-03-15.sh

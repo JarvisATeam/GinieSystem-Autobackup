@@ -1,13 +1,13 @@
 #!/bin/bash
-
-VAULT_DIR="$HOME/GinieSystem/Vault/MINNE"
-cd "$VAULT_DIR" || exit 1
-
-if [ ! -d ".git" ]; then
-  git init
-  git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
-fi
+cd ~/GinieSystem
+source ~/.vaultload.sh
 
 git add .
-git commit -m "📦 Auto sync: $(date +'%F %T')" 2>/dev/null
-git push origin main 2>&1
+git commit -m "🔁 Autosync: $(date)" --quiet 2>/dev/null
+git push > /tmp/git_push_output.log 2>&1
+
+if grep -q "fatal" /tmp/git_push_output.log; then
+  bash ~/GinieSystem/Vault/telegram_notify.sh "⚠️ Git push feilet på $(date)"
+else
+  bash ~/GinieSystem/Vault/telegram_notify.sh "✅ Git push OK: $(date)"
+fi
