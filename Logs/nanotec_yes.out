@@ -1,0 +1,4 @@
+  File "/Users/christerolsen/nanotec_yes_to_all.sh", line 2
+    END=$((SECONDS + 43200))
+        ^
+SyntaxError: invalid syntax

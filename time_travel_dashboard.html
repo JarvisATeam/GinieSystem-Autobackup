@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head><title>Time Travel</title></head>
+  <body>
+    <script>
+      const correctPin = "20092020";
+      let attempts = 0;
+
+      while (attempts < 3) {
+        let entered = prompt("🔐 Skriv inn PIN:");
+
+        if (entered === correctPin) {
+          document.body.innerHTML = "<h2>✅ Velkommen inn i Ginie Time Travel.</h2>";
+          break;
+        }
+
+        attempts++;
+        if (attempts === 3) {
+          document.body.innerHTML = "<h2>⛔ For mange forsøk.</h2>";
+          fetch("http://localhost:9922/pinbreach", { method: "POST" });
+        }
+      }
+    </script>
+  </body>
+</html>
