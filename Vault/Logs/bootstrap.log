@@ -4990,3 +4990,9 @@ rsync(54144): error: unexpected end of file
 ✅ Ferdig! Du kan nå følge med med: tail -f ~/GinieSystem/Vault/Logs/lock_guard.log
 ??????? Backup fullf??rt kl 2025-07-16T07:12:19
 ??????? Backup fullf??rt kl 2025-07-16T07:12:19
+🔁 [Wed Jul 16 07:14:23 CEST 2025] Ginie Bootstrap starter...
+🚀 Starter G.FORGE Prime via autofix_gforge.sh
+🧠 Starter NanoTec...
+🔧 Fixer G.FORGE Prime-oppsett...
+☁️ iCloud Drive synkronisering aktivert
+✅ [Wed Jul 16 07:14:23 CEST 2025] Ginie Bootstrap fullført.
