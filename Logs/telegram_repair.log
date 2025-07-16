@@ -1,0 +1,10 @@
+ Starter Telegram-repair Wed Jul 16 15:29:16 CEST 2025
+ Starter Telegram-repair Wed Jul 16 15:31:58 CEST 2025
+ Starter Telegram-repair Wed Jul 16 15:33:42 CEST 2025
+🚀 Starter Telegram-repair Wed Jul 16 15:42:52 CEST 2025
+🔍 Tester API-tilgang...
+✅ Tilkobling OK – Bot er live!
+❌ notify-script ikke funnet: /Users/christerolsen/GinieSystem/Agents/telegram_notify.sh
+⚠️ Ingen chat-ID funnet i /Users/christerolsen/.telegram_chat – testbeskjed hoppet over
+ℹ️ Ingen meldingskø funnet i /Users/christerolsen/GinieSystem/Messages/Queue
+✅ Telegram-repair ferdig kl 15:42:52
