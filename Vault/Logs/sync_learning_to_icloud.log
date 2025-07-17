@@ -1877,3 +1877,21 @@ rsync(42273): error: io_read_flush
 rsync(42273): error: rsync_sender
 rsync(42273): warning: child 42277 exited with status 1
 [Thu Jul 17 12:00:01 CEST 2025] Sync fullført.
+[Thu Jul 17 12:08:18 CEST 2025] Starter iCloud sync...
+[Thu Jul 17 12:08:18 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  8167 bytes/sec
+total size is 0  speedup is 0.00
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  20980 bytes/sec
+total size is 0  speedup is 0.00
+[Thu Jul 17 12:08:19 CEST 2025] Sync fullført.
+[Thu Jul 17 12:08:19 CEST 2025] Sync fullført.
+[Thu Jul 17 12:08:19 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  20980 bytes/sec
+total size is 0  speedup is 0.00
+[Thu Jul 17 12:08:19 CEST 2025] Sync fullført.
