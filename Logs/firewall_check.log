@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Thu Jul 17 12:15:00 CEST 2025
+🧱 [FIREWALL] Thu Jul 17 14:15:01 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -65,6 +65,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/ginietest_autorun.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/psilo_2.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/psilo_2.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/send_from_sol.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/send_from_sol.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.voice.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.voice.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.learn.sh
@@ -97,6 +99,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.force.loop.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/record_voice_note.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/Scripts/record_voice_note.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/telegram_listen.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/telegram_listen.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/nano_wizard.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/nano_wizard.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/autofix_gforge.sh
@@ -191,6 +195,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginietest_autorun.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/psilo_2.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/psilo_2.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/send_from_sol.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/send_from_sol.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.voice.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.voice.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.learn.sh
@@ -223,6 +229,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.force.loop.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/record_voice_note.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/record_voice_note.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/telegram_listen.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/telegram_listen.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/nano_wizard.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/nano_wizard.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/autofix_gforge.sh
@@ -317,6 +325,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginietest_autorun.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/psilo_2.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/psilo_2.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/send_from_sol.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/send_from_sol.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.voice.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.voice.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.learn.sh
@@ -349,6 +359,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.force.loop.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/record_voice_note.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/record_voice_note.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/telegram_listen.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/telegram_listen.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/nano_wizard.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/nano_wizard.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/autofix_gforge.sh
