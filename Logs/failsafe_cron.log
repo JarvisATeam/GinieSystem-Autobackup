@@ -157,3 +157,18 @@ After doing this, you may fix the identity used for this commit with:
  create mode 100644 BackupFailsafe/Logs/vault_notify_cron.log
  create mode 100644 Logs/nettfeil.log
 [1;31m🔌 [NETTFEIL][0m Ingen internett. Trigger fallback nå.
+[main 1022efe] 🔒 Automatisk failsafe backup 2025-07-17 06:00:04
+ Committer: christer olsen <christerolsen@christers-MacBook-Pro-2.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 148 insertions(+)
+[1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
