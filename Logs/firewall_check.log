@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Thu Jul 17 04:15:01 CEST 2025
+🧱 [FIREWALL] Thu Jul 17 06:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -33,6 +33,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Agents/g.mailreader/g.mailreader.sh
 🧪 /Users/christerolsen/GinieSystem/Agents/telegram_repair_restart.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Agents/telegram_repair_restart.sh
+🧪 /Users/christerolsen/GinieSystem/ginie_failsafe.sh
+✅ OK: /Users/christerolsen/GinieSystem/ginie_failsafe.sh
 🧪 /Users/christerolsen/GinieSystem/Symbiose/ginie_symbiose_app.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Symbiose/ginie_symbiose_app.sh
 🧪 /Users/christerolsen/GinieSystem/ScriptVersions/g.learn_2025-07-15T16-03-15.sh
@@ -53,6 +55,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.superloop.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/vault_repair.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/Scripts/vault_repair.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/send_telegram.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/send_telegram.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/ginie_8h_loop.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/ginie_8h_loop.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/psilo.2.sh
@@ -65,6 +69,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.voice.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.learn.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.learn.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/telegram_notify.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/telegram_notify.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.train.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/Scripts/g.train.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/ginie_bootstrap.sh
@@ -101,6 +107,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/gforge_prime_autostart.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/ginie_keyload.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/ginie_keyload.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/ginie_bypass.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/ginie_bypass.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/validate_keys.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/Scripts/validate_keys.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.autosave.sh
@@ -113,12 +121,270 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/lock_guard.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.train_ai.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.train_ai.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/ginie_zip_to_icloud.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/ginie_zip_to_icloud.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/logg_postworkout.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/logg_postworkout.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/start_all_visible.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/start_all_visible.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/gfix_backup.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/gfix_backup.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Core/gforge_warp.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Core/gforge_warp.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Core/self_reflect.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Core/self_reflect.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Core/ginie_keyload.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Core/ginie_keyload.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Earn/learning_loop.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Earn/learning_loop.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Earn/push_linktree.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Earn/push_linktree.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Earn/stripe_push.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Earn/stripe_push.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Earn/breakthrough_notify.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Earn/breakthrough_notify.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Earn/fallback_watch.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Earn/fallback_watch.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Earn/gfix_earn.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Earn/gfix_earn.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Earn/vault_distributor.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Earn/vault_distributor.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Earn/reinvest.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Earn/reinvest.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Earn/earn_mission.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Earn/earn_mission.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Agents/telegram_notify.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Agents/telegram_notify.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Agents/g.mailreader/g.mailreader.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Agents/g.mailreader/g.mailreader.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Agents/telegram_repair_restart.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Agents/telegram_repair_restart.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/ginie_failsafe.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/ginie_failsafe.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Symbiose/ginie_symbiose_app.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Symbiose/ginie_symbiose_app.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/ScriptVersions/g.learn_2025-07-15T16-03-15.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/ScriptVersions/g.learn_2025-07-15T16-03-15.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/ScriptVersions/g.learn_2025-07-15T16-02-45.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/ScriptVersions/g.learn_2025-07-15T16-02-45.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/G.Force_Bumblebee_hacker.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/G.Force_Bumblebee_hacker.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_versioner.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_versioner.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.recall.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.recall.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/yes_to_all_loop_forever.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/yes_to_all_loop_forever.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/git_autosync.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/git_autosync.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.superloop.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.superloop.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/vault_repair.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/vault_repair.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/send_telegram.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/send_telegram.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_8h_loop.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_8h_loop.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/psilo.2.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/psilo.2.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginietest_autorun.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginietest_autorun.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/psilo_2.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/psilo_2.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.voice.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.voice.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.learn.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.learn.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/telegram_notify.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/telegram_notify.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.train.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.train.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_bootstrap.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_bootstrap.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/psilo_3.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/psilo_3.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforge_prime_backup.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforge_prime_backup.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforce_genesis.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforce_genesis.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforce_warp_automagic.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforce_warp_automagic.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforce_total_repair.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforce_total_repair.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/father_ai_protector.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/father_ai_protector.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforce_firewall.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforce_firewall.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_fix_all.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_fix_all.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/sync_learning_to_icloud.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/sync_learning_to_icloud.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.force.loop.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.force.loop.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/record_voice_note.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/record_voice_note.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/nano_wizard.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/nano_wizard.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/autofix_gforge.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/autofix_gforge.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_implement.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_implement.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforge_prime_autostart.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforge_prime_autostart.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_keyload.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_keyload.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_bypass.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_bypass.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/validate_keys.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/validate_keys.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.autosave.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.autosave.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_dashboard.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_dashboard.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/launch_nanotec.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/launch_nanotec.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/lock_guard.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/lock_guard.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.train_ai.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.train_ai.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/logg_postworkout.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/logg_postworkout.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/start_all_visible.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/start_all_visible.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gfix_backup.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gfix_backup.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/gforge_warp.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/gforge_warp.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/self_reflect.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/self_reflect.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/ginie_keyload.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/ginie_keyload.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Earn/learning_loop.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Earn/learning_loop.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Earn/push_linktree.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Earn/push_linktree.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Earn/stripe_push.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Earn/stripe_push.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Earn/breakthrough_notify.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Earn/breakthrough_notify.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Earn/fallback_watch.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Earn/fallback_watch.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Earn/gfix_earn.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Earn/gfix_earn.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Earn/vault_distributor.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Earn/vault_distributor.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Earn/reinvest.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Earn/reinvest.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Earn/earn_mission.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Earn/earn_mission.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Agents/telegram_notify.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Agents/telegram_notify.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Agents/g.mailreader/g.mailreader.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Agents/g.mailreader/g.mailreader.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Agents/telegram_repair_restart.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Agents/telegram_repair_restart.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/ginie_failsafe.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/ginie_failsafe.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Symbiose/ginie_symbiose_app.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Symbiose/ginie_symbiose_app.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/ScriptVersions/g.learn_2025-07-15T16-03-15.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/ScriptVersions/g.learn_2025-07-15T16-03-15.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/ScriptVersions/g.learn_2025-07-15T16-02-45.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/ScriptVersions/g.learn_2025-07-15T16-02-45.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/G.Force_Bumblebee_hacker.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/G.Force_Bumblebee_hacker.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_versioner.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_versioner.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.recall.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.recall.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/yes_to_all_loop_forever.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/yes_to_all_loop_forever.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/git_autosync.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/git_autosync.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.superloop.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.superloop.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/vault_repair.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/vault_repair.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/send_telegram.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/send_telegram.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_8h_loop.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_8h_loop.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/psilo.2.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/psilo.2.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginietest_autorun.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginietest_autorun.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/psilo_2.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/psilo_2.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.voice.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.voice.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.learn.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.learn.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/telegram_notify.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/telegram_notify.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.train.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.train.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_bootstrap.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_bootstrap.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/psilo_3.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/psilo_3.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gforge_prime_backup.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gforge_prime_backup.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gforce_genesis.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gforce_genesis.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gforce_warp_automagic.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gforce_warp_automagic.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gforce_total_repair.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gforce_total_repair.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/father_ai_protector.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/father_ai_protector.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gforce_firewall.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gforce_firewall.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_fix_all.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_fix_all.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/sync_learning_to_icloud.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/sync_learning_to_icloud.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.force.loop.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.force.loop.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/record_voice_note.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/record_voice_note.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/nano_wizard.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/nano_wizard.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/autofix_gforge.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/autofix_gforge.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_implement.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_implement.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gforge_prime_autostart.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gforge_prime_autostart.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_keyload.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_keyload.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_bypass.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_bypass.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/validate_keys.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/validate_keys.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.autosave.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.autosave.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_dashboard.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_dashboard.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/launch_nanotec.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/launch_nanotec.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/lock_guard.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/lock_guard.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.train_ai.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.train_ai.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/logg_postworkout.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/logg_postworkout.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/start_all_visible.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/start_all_visible.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gfix_backup.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gfix_backup.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/setup_all_earn.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/setup_all_earn.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/telegram_notify.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/telegram_notify.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/setup_all_earn.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/setup_all_earn.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/telegram_notify.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/telegram_notify.sh
 🧪 /Users/christerolsen/GinieSystem/setup_all_earn.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/setup_all_earn.sh
 🧠 Oppdaterer selvbevissthet...
