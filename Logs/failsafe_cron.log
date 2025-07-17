@@ -327,3 +327,4 @@ After doing this, you may fix the identity used for this commit with:
  34 files changed, 1021 insertions(+), 3 deletions(-)
  create mode 100644 BackupFailsafe/Logs/icloud_zip.log
 [1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
+[1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
