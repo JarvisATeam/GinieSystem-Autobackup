@@ -702,3 +702,4 @@ After doing this, you may fix the identity used for this commit with:
  create mode 100644 BackupFailsafe/Vault/telegram_offset.txt
 [1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
 [1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
+[1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
