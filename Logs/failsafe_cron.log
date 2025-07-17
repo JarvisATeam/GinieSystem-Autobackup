@@ -10,3 +10,150 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+warning: adding embedded git repository: BackupFailsafe/BackupFailsafe/Vault/MINNE
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> BackupFailsafe/BackupFailsafe/Vault/MINNE
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached BackupFailsafe/BackupFailsafe/Vault/MINNE
+hint: 
+hint: See "git help submodule" for more information.
+[main 4f690a7] 🔒 Automatisk failsafe backup 2025-07-17 06:00:03
+ Committer: christer olsen <christerolsen@christers-MacBook-Pro-2.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 135 files changed, 106386 insertions(+), 1 deletion(-)
+ create mode 100644 BackupFailsafe/BackupFailsafe/Dashboards/earn_dashboard.html
+ create mode 100644 BackupFailsafe/BackupFailsafe/Dashboards/knowledge_status.html
+ create mode 100644 BackupFailsafe/BackupFailsafe/Dashboards/nohup.out
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/bypass.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/dashboard_http.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/dashboard_server.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/dashboard_stderr.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/dashboard_stdout.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/failsafe_cron.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/firewall_cron.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/g.superloop.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/gforge_prime.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/gforge_warp.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/learning.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/learning_loop.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/linktree_push.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/loop_autostart.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/nanotec_launch.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/nanotec_yes.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/nanotec_yes.out
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/psilo2.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/psilo_trip_1752595254.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/psilo_trip_1752596823.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/self_reflect.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/telegram_notify.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/telegram_repair.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/vault_notify_cron.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/version_daily.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/warp_loop.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/yes_log.txt
+ create mode 100644 BackupFailsafe/BackupFailsafe/Prompts/memory_init.prompt
+ create mode 100755 BackupFailsafe/BackupFailsafe/ScriptVersions/g.learn_2025-07-15T16-02-45.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/ScriptVersions/g.learn_2025-07-15T16-03-15.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/G.Force_Bumblebee_hacker.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/autofix_gforge.sh
+ create mode 100644 BackupFailsafe/BackupFailsafe/Scripts/book_harvester.py
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/father_ai_protector.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/g.autosave.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/g.force.loop.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/g.learn.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/g.recall.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/g.superloop.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/g.train.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/g.train_ai.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/g.voice.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/gfix_backup.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/gforce_firewall.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/gforce_genesis.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/gforce_total_repair.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/gforce_warp_automagic.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/gforge_prime_autostart.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/gforge_prime_backup.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/gforge_prime_backup.sh.bak
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/ginie_8h_loop.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/ginie_bootstrap.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/ginie_bypass.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/ginie_dashboard.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/ginie_fix_all.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/ginie_implement.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/ginie_keyload.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/ginie_versioner.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/ginietest_autorun.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/git_autosync.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/launch_nanotec.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/lock_guard.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/logg_postworkout.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/nano_wizard.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/psilo.2.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/psilo_2.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/psilo_3.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/record_voice_note.sh
+ create mode 100644 BackupFailsafe/BackupFailsafe/Scripts/send_telegram.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/start_all_visible.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/sync_learning_to_icloud.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/telegram_notify.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/validate_keys.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/vault_repair.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/yes_to_all_loop_forever.sh
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/Barna/Pernille/proof.json
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/Barna/Silke/proof.json
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/Barna/Sol/proof.json
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/Knowledge/db/psilo_insights.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/Knowledge/raw/1342-0.txt
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/Logs/bootstrap.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/Logs/gforge_autostart.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/Logs/ginie_implement.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/Logs/lock_guard.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/Logs/sync_learning_to_icloud.log
+ create mode 160000 BackupFailsafe/BackupFailsafe/Vault/MINNE
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/MailLogs/cron_mailproof.log
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/Proof/proof.json
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/Security/pin_breach.json
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/get-pip.py
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/ginieshortcut_qr.png
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/keys/ginie_public.gpg
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/keys/github_pat.gpg
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/keys/github_pat.key
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/keys/notion_db_id.key
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/keys/notion_token.key
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/keys/openai.key
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/keys/stripe_token.key
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/keys/telegram.chat
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/keys/telegram.token
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/keys/telegram_chat.key
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/keys/telegram_token.gpg
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/keys/telegram_token.key
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/psilo_memory.log
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/telegram_notify.sh
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/vault_index.html
+ create mode 100644 BackupFailsafe/BackupFailsafe/g.backup_active.ps1
+ create mode 100644 BackupFailsafe/BackupFailsafe/privacy_policy.html
+ create mode 100755 BackupFailsafe/BackupFailsafe/setup_all_earn.sh
+ create mode 100644 BackupFailsafe/BackupFailsafe/test_autosync.md
+ create mode 100644 BackupFailsafe/BackupFailsafe/tiktokN4eqWYFwiKRUjnwz4V4OlkWrdGfa3THn.txt
+ create mode 100644 BackupFailsafe/Logs/bypass.log
+ create mode 100644 BackupFailsafe/Logs/failsafe_cron.log
+ create mode 100644 BackupFailsafe/Logs/vault_notify_cron.log
+ create mode 100644 Logs/nettfeil.log
+[1;31m🔌 [NETTFEIL][0m Ingen internett. Trigger fallback nå.
