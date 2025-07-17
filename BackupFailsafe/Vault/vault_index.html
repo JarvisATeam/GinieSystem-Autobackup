@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"><title>Vault Oversikt</title></head>
+<body>
+<h1>🔐 Vault-filer</h1>
+<ul>
+$(for f in ~/GinieSystem/Vault/*; do echo "<li>$(basename "$f")</li>"; done)
+</ul>
+</body>
+</html>

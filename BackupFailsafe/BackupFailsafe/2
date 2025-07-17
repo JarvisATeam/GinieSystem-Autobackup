@@ -1,0 +1,1 @@
+➡️ pip3 install --upgrade $(pip3 list --outdated | awk NR {print })

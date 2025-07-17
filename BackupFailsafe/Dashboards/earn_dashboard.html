@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+  <meta charset="UTF-8">
+  <title>💸 GinieEarn Dashboard</title>
+  <style>
+    body { font-family: sans-serif; padding: 20px; background: #111; color: #eee; }
+    h1 { color: #0f0; }
+    .log { background: #222; padding: 10px; margin: 10px 0; white-space: pre-wrap; border: 1px solid #444; }
+    .button { background: #0f0; color: #000; padding: 10px 20px; border: none; cursor: pointer; margin-right: 10px; font-weight: bold; }
+    .qr { max-width: 200px; margin-top: 10px; }
+  </style>
+</head>
+<body>
+  <h1>💸 GinieEarn Status Dashboard</h1>
+
+  <button class="button" onclick="location.href='file:///Users/christerolsen/GinieSystem/Earn/earn_mission.sh'">▶️ Start Earn</button>
+  <button class="button" onclick="window.open('https://linktr.ee/Achildsecho', '_blank')">🌐 Åpne Linktree</button>
+
+  <h3>🧾 Sist logget fordeling:</h3>
+  <div class="log">
+    <!-- Vault log visning -->
+    <script>
+      fetch("file:///Users/christerolsen/GinieSystem/Logs/vault_dist.log")
+        .then(r => r.text())
+        .then(text => document.querySelector('.log').innerText = text)
+        .catch(err => document.querySelector('.log').innerText = "⛔ Ikke lastet (kan trenge lokal kjøring)");
+    </script>
+  </div>
+
+  <h3>🔗 Stripe QR:</h3>
+  <img class="qr" src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://linktr.ee/Achildsecho" alt="QR">
+
+</body>
+</html>
