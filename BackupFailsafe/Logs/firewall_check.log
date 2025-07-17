@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Thu Jul 17 06:15:00 CEST 2025
+🧱 [FIREWALL] Thu Jul 17 08:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -247,6 +247,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/lock_guard.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.train_ai.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.train_ai.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_zip_to_icloud.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_zip_to_icloud.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/logg_postworkout.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/logg_postworkout.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/start_all_visible.sh
@@ -371,6 +373,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/lock_guard.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.train_ai.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.train_ai.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_zip_to_icloud.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_zip_to_icloud.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/logg_postworkout.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/logg_postworkout.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/start_all_visible.sh
