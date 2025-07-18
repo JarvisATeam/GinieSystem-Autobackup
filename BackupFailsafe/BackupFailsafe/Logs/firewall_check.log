@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Fri Jul 18 04:15:01 CEST 2025
+🧱 [FIREWALL] Fri Jul 18 06:15:01 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -407,13 +407,37 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gfix_backup.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/setup_all_earn.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/setup_all_earn.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/TrainApp/g.profiles.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/TrainApp/g.profiles.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/TrainApp/g.train.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/TrainApp/g.train.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/TrainApp/g.muscle_ai.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/TrainApp/g.muscle_ai.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/TrainApp/g.log_train.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/TrainApp/g.log_train.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/telegram_notify.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/telegram_notify.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/setup_all_earn.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/setup_all_earn.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/TrainApp/g.profiles.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/TrainApp/g.profiles.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/TrainApp/g.train.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/TrainApp/g.train.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/TrainApp/g.muscle_ai.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/TrainApp/g.muscle_ai.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/TrainApp/g.log_train.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/TrainApp/g.log_train.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/telegram_notify.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/telegram_notify.sh
 🧪 /Users/christerolsen/GinieSystem/setup_all_earn.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/setup_all_earn.sh
+🧪 /Users/christerolsen/GinieSystem/TrainApp/g.profiles.sh
+✅ OK: /Users/christerolsen/GinieSystem/TrainApp/g.profiles.sh
+🧪 /Users/christerolsen/GinieSystem/TrainApp/g.train.sh
+✅ OK: /Users/christerolsen/GinieSystem/TrainApp/g.train.sh
+🧪 /Users/christerolsen/GinieSystem/TrainApp/g.muscle_ai.sh
+✅ OK: /Users/christerolsen/GinieSystem/TrainApp/g.muscle_ai.sh
+🧪 /Users/christerolsen/GinieSystem/TrainApp/g.log_train.sh
+✅ OK: /Users/christerolsen/GinieSystem/TrainApp/g.log_train.sh
 🧠 Oppdaterer selvbevissthet...
 ✅ Firewall ferdig.
