@@ -2137,3 +2137,21 @@ rsync(51504): error: io_read_flush
 rsync(51504): error: rsync_sender
 rsync(51504): warning: child 51508 exited with status 1
 [Thu Jul 17 23:00:01 CEST 2025] Sync fullført.
+[Fri Jul 18 04:22:50 CEST 2025] Starter iCloud sync...
+[Fri Jul 18 04:22:50 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  17540 bytes/sec
+total size is 0  speedup is 0.00
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  15070 bytes/sec
+total size is 0  speedup is 0.00
+[Fri Jul 18 04:22:50 CEST 2025] Sync fullført.
+[Fri Jul 18 04:22:50 CEST 2025] Sync fullført.
+[Fri Jul 18 04:22:50 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  15070 bytes/sec
+total size is 0  speedup is 0.00
+[Fri Jul 18 04:22:51 CEST 2025] Sync fullført.
