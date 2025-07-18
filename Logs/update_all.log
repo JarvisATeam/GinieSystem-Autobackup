@@ -123,3 +123,13 @@ After doing this, you may fix the identity used for this commit with:
     git commit --amend --reset-author
 
  3 files changed, 59 insertions(+)
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/JarvisATeam/GinieSystem-Autobackup.git/'
+✅ Push: /Users/christerolsen/GinieSystem
+{"ok":true,"result":{"message_id":122,"from":{"id":7934211714,"is_bot":true,"first_name":"GinieNotifier","username":"GinieAlarmBot"},"chat":{"id":5624725784,"first_name":"Christer","last_name":"Olsen","type":"private"},"date":1752868628,"text":"\u2705 Oppdatering fullf\u00f8rt: 2025-07-18 21:57:08"}}✅ Ferdig: 2025-07-18 21:57:08
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/JarvisATeam/GinieSystem-Autobackup.git/'
+✅ Push: /Users/christerolsen/GinieSystem
+{"ok":true,"result":{"message_id":123,"from":{"id":7934211714,"is_bot":true,"first_name":"GinieNotifier","username":"GinieAlarmBot"},"chat":{"id":5624725784,"first_name":"Christer","last_name":"Olsen","type":"private"},"date":1752868661,"text":"\u2705 Oppdatering fullf\u00f8rt: 2025-07-18 21:57:40"}}✅ Ferdig: 2025-07-18 21:57:41
