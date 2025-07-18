@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Fri Jul 18 06:15:01 CEST 2025
+🧱 [FIREWALL] Fri Jul 18 08:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -77,6 +77,8 @@
 ❌ FEIL i: /Users/christerolsen/GinieSystem/Scripts/g.train.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/ginie_bootstrap.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/ginie_bootstrap.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/g.update_all.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.update_all.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/psilo_3.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/Scripts/psilo_3.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/gforge_prime_backup.sh
@@ -211,6 +213,8 @@
 ❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.train.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_bootstrap.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_bootstrap.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.update_all.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.update_all.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/psilo_3.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/psilo_3.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforge_prime_backup.sh
@@ -345,6 +349,8 @@
 ❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.train.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_bootstrap.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_bootstrap.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.update_all.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.update_all.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/psilo_3.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/psilo_3.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gforge_prime_backup.sh
