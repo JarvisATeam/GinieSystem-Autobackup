@@ -1,1 +1,2 @@
 - [2025-07-18 04:27] bryst – 10*5*10kg øke med 5 per sett – 10kg x 5*5 – brskråbenk manualer
+- [2025-07-18 04:30] bryst – flies – 20kgkg x 10 – kjører skrå flies. kom med tips til bedre brystøkter
