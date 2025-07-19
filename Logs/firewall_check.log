@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Sat Jul 19 10:15:00 CEST 2025
+🧱 [FIREWALL] Sat Jul 19 12:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -91,6 +91,8 @@
 ❌ FEIL i: /Users/christerolsen/GinieSystem/Scripts/g.train.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/ginie_bootstrap.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/ginie_bootstrap.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/search_pi_passphrase_notes.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/search_pi_passphrase_notes.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.update_all.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.update_all.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/psilo_3.sh
@@ -108,7 +110,9 @@
 🧪 /Users/christerolsen/GinieSystem/Scripts/gforce_firewall.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/gforce_firewall.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/search_wallet_with_status.sh
-❌ FEIL i: /Users/christerolsen/GinieSystem/Scripts/search_wallet_with_status.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/search_wallet_with_status.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/extract_wallet_keys.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/extract_wallet_keys.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/ginie_fix_all.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/ginie_fix_all.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/sync_learning_to_icloud.sh
@@ -151,6 +155,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/logg_postworkout.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/start_symbiose_cron.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/start_symbiose_cron.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/deep_wallet_key_search.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/deep_wallet_key_search.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/start_all_visible.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/start_all_visible.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/gfix_backup.sh
@@ -245,6 +251,8 @@
 ❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.train.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_bootstrap.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_bootstrap.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/search_pi_passphrase_notes.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/search_pi_passphrase_notes.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.update_all.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.update_all.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/psilo_3.sh
@@ -262,7 +270,9 @@
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforce_firewall.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforce_firewall.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/search_wallet_with_status.sh
-❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/search_wallet_with_status.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/search_wallet_with_status.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/extract_wallet_keys.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/extract_wallet_keys.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_fix_all.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_fix_all.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/sync_learning_to_icloud.sh
@@ -305,6 +315,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/logg_postworkout.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/start_symbiose_cron.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/start_symbiose_cron.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/deep_wallet_key_search.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/deep_wallet_key_search.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/start_all_visible.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/start_all_visible.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gfix_backup.sh
@@ -415,6 +427,10 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/father_ai_protector.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gforce_firewall.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gforce_firewall.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/search_wallet_with_status.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/search_wallet_with_status.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/extract_wallet_keys.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/extract_wallet_keys.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_fix_all.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_fix_all.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/sync_learning_to_icloud.sh
@@ -457,6 +473,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/logg_postworkout.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/start_symbiose_cron.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/start_symbiose_cron.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/deep_wallet_key_search.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/deep_wallet_key_search.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/start_all_visible.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/start_all_visible.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gfix_backup.sh
