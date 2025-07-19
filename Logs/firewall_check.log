@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Sat Jul 19 18:15:00 CEST 2025
+🧱 [FIREWALL] Sat Jul 19 20:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -495,6 +495,10 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/TrainApp/g.log_train.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/telegram_notify.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/telegram_notify.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/g.vault_ping.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/g.vault_ping.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/g.vault_log.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/g.vault_log.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/setup_all_earn.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/setup_all_earn.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/TrainApp/g.profiles.sh
