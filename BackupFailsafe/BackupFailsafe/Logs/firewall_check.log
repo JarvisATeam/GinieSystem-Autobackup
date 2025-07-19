@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Sat Jul 19 08:15:00 CEST 2025
+🧱 [FIREWALL] Sat Jul 19 10:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -15,6 +15,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Training/supplement_log.sh
 🧪 /Users/christerolsen/GinieSystem/Training/g.train.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Training/g.train.sh
+🧪 /Users/christerolsen/GinieSystem/Consciousness/p_shillosybe.sh
+✅ OK: /Users/christerolsen/GinieSystem/Consciousness/p_shillosybe.sh
 🧪 /Users/christerolsen/GinieSystem/Earn/learning_loop.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Earn/learning_loop.sh
 🧪 /Users/christerolsen/GinieSystem/Earn/push_linktree.sh
@@ -41,8 +43,14 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Agents/telegram_repair_restart.sh
 🧪 /Users/christerolsen/GinieSystem/ginie_failsafe.sh
 ✅ OK: /Users/christerolsen/GinieSystem/ginie_failsafe.sh
+🧪 /Users/christerolsen/GinieSystem/Mining/auto_mine_pro.sh
+✅ OK: /Users/christerolsen/GinieSystem/Mining/auto_mine_pro.sh
 🧪 /Users/christerolsen/GinieSystem/Symbiose/ginie_symbiose_app.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Symbiose/ginie_symbiose_app.sh
+🧪 /Users/christerolsen/GinieSystem/pro_mode_activate.sh
+✅ OK: /Users/christerolsen/GinieSystem/pro_mode_activate.sh
+🧪 /Users/christerolsen/GinieSystem/Watchdog/ginie_watchdog.sh
+✅ OK: /Users/christerolsen/GinieSystem/Watchdog/ginie_watchdog.sh
 🧪 /Users/christerolsen/GinieSystem/ScriptVersions/g.learn_2025-07-15T16-03-15.sh
 ✅ OK: /Users/christerolsen/GinieSystem/ScriptVersions/g.learn_2025-07-15T16-03-15.sh
 🧪 /Users/christerolsen/GinieSystem/ScriptVersions/g.learn_2025-07-15T16-02-45.sh
@@ -99,6 +107,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/father_ai_protector.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/gforce_firewall.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/gforce_firewall.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/search_wallet_with_status.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/Scripts/search_wallet_with_status.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/ginie_fix_all.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/ginie_fix_all.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/sync_learning_to_icloud.sh
@@ -145,6 +155,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/start_all_visible.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/gfix_backup.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/gfix_backup.sh
+🧪 /Users/christerolsen/GinieSystem/Trading/g_trade_pro.sh
+✅ OK: /Users/christerolsen/GinieSystem/Trading/g_trade_pro.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Core/gforge_warp.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Core/gforge_warp.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Core/self_reflect.sh
@@ -157,6 +169,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Training/supplement_log.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Training/g.train.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Training/g.train.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Consciousness/p_shillosybe.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Consciousness/p_shillosybe.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Earn/learning_loop.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Earn/learning_loop.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Earn/push_linktree.sh
@@ -183,8 +197,14 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Agents/telegram_repair_restart.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/ginie_failsafe.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/ginie_failsafe.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Mining/auto_mine_pro.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Mining/auto_mine_pro.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Symbiose/ginie_symbiose_app.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Symbiose/ginie_symbiose_app.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/pro_mode_activate.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/pro_mode_activate.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Watchdog/ginie_watchdog.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Watchdog/ginie_watchdog.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/ScriptVersions/g.learn_2025-07-15T16-03-15.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/ScriptVersions/g.learn_2025-07-15T16-03-15.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/ScriptVersions/g.learn_2025-07-15T16-02-45.sh
@@ -241,6 +261,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/father_ai_protector.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforce_firewall.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforce_firewall.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/search_wallet_with_status.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/search_wallet_with_status.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_fix_all.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_fix_all.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/sync_learning_to_icloud.sh
@@ -287,6 +309,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/start_all_visible.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gfix_backup.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gfix_backup.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Trading/g_trade_pro.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Trading/g_trade_pro.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/gforge_warp.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/gforge_warp.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/self_reflect.sh
@@ -299,6 +323,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Training/supplement_log.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Training/g.train.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Training/g.train.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Consciousness/p_shillosybe.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Consciousness/p_shillosybe.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Earn/learning_loop.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Earn/learning_loop.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Earn/push_linktree.sh
@@ -325,8 +351,14 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Agents/telegram_repair_restart.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/ginie_failsafe.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/ginie_failsafe.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Mining/auto_mine_pro.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Mining/auto_mine_pro.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Symbiose/ginie_symbiose_app.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Symbiose/ginie_symbiose_app.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/pro_mode_activate.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/pro_mode_activate.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Watchdog/ginie_watchdog.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Watchdog/ginie_watchdog.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/ScriptVersions/g.learn_2025-07-15T16-03-15.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/ScriptVersions/g.learn_2025-07-15T16-03-15.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/ScriptVersions/g.learn_2025-07-15T16-02-45.sh
@@ -429,6 +461,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/start_all_visible.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gfix_backup.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gfix_backup.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Trading/g_trade_pro.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Trading/g_trade_pro.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/setup_all_earn.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/setup_all_earn.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/TrainApp/g.profiles.sh
