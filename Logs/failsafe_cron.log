@@ -3280,3 +3280,4 @@ After doing this, you may fix the identity used for this commit with:
  37 files changed, 1060 insertions(+), 4 deletions(-)
  create mode 100644 BackupFailsafe/Training/train_log.txt
 [1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
+[1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
