@@ -3233,3 +3233,75 @@ rsync(31155): error: io_read_flush
 rsync(31155): error: rsync_sender
 rsync(31155): warning: child 31157 exited with status 1
 [Sat Jul 19 17:00:00 CEST 2025] Sync fullført.
+[Sat Jul 19 17:03:57 CEST 2025] Starter iCloud sync...
+[Sat Jul 19 17:03:57 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  13209 bytes/sec
+total size is 0  speedup is 0.00
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  11758 bytes/sec
+total size is 0  speedup is 0.00
+[Sat Jul 19 17:03:57 CEST 2025] Sync fullført.
+[Sat Jul 19 17:03:57 CEST 2025] Sync fullført.
+[Sat Jul 19 17:03:57 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  17540 bytes/sec
+total size is 0  speedup is 0.00
+[Sat Jul 19 17:03:57 CEST 2025] Sync fullført.
+[Sat Jul 19 17:05:28 CEST 2025] Starter iCloud sync...
+[Sat Jul 19 17:05:28 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  26097 bytes/sec
+total size is 0  speedup is 0.00
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  34516 bytes/sec
+total size is 0  speedup is 0.00
+[Sat Jul 19 17:05:28 CEST 2025] Sync fullført.
+[Sat Jul 19 17:05:29 CEST 2025] Sync fullført.
+[Sat Jul 19 17:05:29 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  26097 bytes/sec
+total size is 0  speedup is 0.00
+[Sat Jul 19 17:05:29 CEST 2025] Sync fullført.
+[Sat Jul 19 17:05:55 CEST 2025] Starter iCloud sync...
+[Sat Jul 19 17:05:55 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  34516 bytes/sec
+total size is 0  speedup is 0.00
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  26097 bytes/sec
+total size is 0  speedup is 0.00
+[Sat Jul 19 17:05:55 CEST 2025] Sync fullført.
+[Sat Jul 19 17:05:55 CEST 2025] Sync fullført.
+[Sat Jul 19 17:05:55 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  20980 bytes/sec
+total size is 0  speedup is 0.00
+[Sat Jul 19 17:05:55 CEST 2025] Sync fullført.
+[Sat Jul 19 17:06:13 CEST 2025] Starter iCloud sync...
+[Sat Jul 19 17:06:13 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  15070 bytes/sec
+total size is 0  speedup is 0.00
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  17540 bytes/sec
+total size is 0  speedup is 0.00
+[Sat Jul 19 17:06:13 CEST 2025] Sync fullført.
+[Sat Jul 19 17:06:13 CEST 2025] Sync fullført.
+[Sat Jul 19 17:06:13 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  20980 bytes/sec
+total size is 0  speedup is 0.00
+[Sat Jul 19 17:06:13 CEST 2025] Sync fullført.
