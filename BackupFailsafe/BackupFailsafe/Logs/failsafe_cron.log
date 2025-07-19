@@ -3099,3 +3099,40 @@ After doing this, you may fix the identity used for this commit with:
 {"ok":true,"result":{"message_id":547,"from":{"id":7970813653,"is_bot":true,"first_name":"Jarvis","username":"TheAteamJarvis_bot"},"chat":{"id":5624725784,"first_name":"Christer","last_name":"Olsen","type":"private"},"date":1752883205,"text":"\ud83d\udeaa Bypass-script kj\u00f8rt \u2013 sjekket for stengte d\u00f8rer 02:00:04"}}{"ok":true,"result":{"message_id":548,"from":{"id":7970813653,"is_bot":true,"first_name":"Jarvis","username":"TheAteamJarvis_bot"},"chat":{"id":5624725784,"first_name":"Christer","last_name":"Olsen","type":"private"},"date":1752883205,"text":"\ud83d\udeaa Bypass-script kj\u00f8rt \u2013 sjekket for stengte d\u00f8rer 02:00:05"}}{"ok":true,"result":{"message_id":549,"from":{"id":7970813653,"is_bot":true,"first_name":"Jarvis","username":"TheAteamJarvis_bot"},"chat":{"id":5624725784,"first_name":"Christer","last_name":"Olsen","type":"private"},"date":1752883206,"text":"\ud83d\udeaa Bypass-script kj\u00f8rt \u2013 sjekket for stengte d\u00f8rer 02:00:05"}}[1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
 [1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
 [1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
+[1;31m🔌 [NETTFEIL][0m Ingen internett. Trigger fallback nå.
+[1;31m🔌 [NETTFEIL][0m Ingen internett. Trigger fallback nå.
+[1;31m🔌 [NETTFEIL][0m Ingen internett. Trigger fallback nå.
+fatal: Unable to create '/Users/christerolsen/GinieSystem/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/christerolsen/GinieSystem/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main abdcbff] 🔒 Automatisk failsafe backup 2025-07-19 02:30:03
+ Committer: christer olsen <christerolsen@christers-MacBook-Pro-2.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 1059 insertions(+), 5 deletions(-)
+[1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
+[1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
+[1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
+{"ok":true,"result":{"message_id":554,"from":{"id":7970813653,"is_bot":true,"first_name":"Jarvis","username":"TheAteamJarvis_bot"},"chat":{"id":5624725784,"first_name":"Christer","last_name":"Olsen","type":"private"},"date":1752885004,"text":"\ud83d\udeaa Bypass-script kj\u00f8rt \u2013 sjekket for stengte d\u00f8rer 02:30:04"}}{"ok":true,"result":{"message_id":555,"from":{"id":7970813653,"is_bot":true,"first_name":"Jarvis","username":"TheAteamJarvis_bot"},"chat":{"id":5624725784,"first_name":"Christer","last_name":"Olsen","type":"private"},"date":1752885005,"text":"\ud83d\udeaa Bypass-script kj\u00f8rt \u2013 sjekket for stengte d\u00f8rer 02:30:04"}}{"ok":true,"result":{"message_id":556,"from":{"id":7970813653,"is_bot":true,"first_name":"Jarvis","username":"TheAteamJarvis_bot"},"chat":{"id":5624725784,"first_name":"Christer","last_name":"Olsen","type":"private"},"date":1752885005,"text":"\ud83d\udeaa Bypass-script kj\u00f8rt \u2013 sjekket for stengte d\u00f8rer 02:30:05"}}[1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
+[1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
+[1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
