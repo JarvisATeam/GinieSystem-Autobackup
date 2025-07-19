@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Sat Jul 19 04:15:00 CEST 2025
+🧱 [FIREWALL] Sat Jul 19 06:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -9,6 +9,12 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Core/self_reflect.sh
 🧪 /Users/christerolsen/GinieSystem/Core/ginie_keyload.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Core/ginie_keyload.sh
+🧪 /Users/christerolsen/GinieSystem/Training/g.recall.sh
+✅ OK: /Users/christerolsen/GinieSystem/Training/g.recall.sh
+🧪 /Users/christerolsen/GinieSystem/Training/supplement_log.sh
+✅ OK: /Users/christerolsen/GinieSystem/Training/supplement_log.sh
+🧪 /Users/christerolsen/GinieSystem/Training/g.train.sh
+✅ OK: /Users/christerolsen/GinieSystem/Training/g.train.sh
 🧪 /Users/christerolsen/GinieSystem/Earn/learning_loop.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Earn/learning_loop.sh
 🧪 /Users/christerolsen/GinieSystem/Earn/push_linktree.sh
@@ -145,6 +151,12 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Core/self_reflect.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Core/ginie_keyload.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Core/ginie_keyload.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Training/g.recall.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Training/g.recall.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Training/supplement_log.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Training/supplement_log.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Training/g.train.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Training/g.train.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Earn/learning_loop.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Earn/learning_loop.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Earn/push_linktree.sh
@@ -281,6 +293,12 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/self_reflect.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/ginie_keyload.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/ginie_keyload.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Training/g.recall.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Training/g.recall.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Training/supplement_log.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Training/supplement_log.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Training/g.train.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Training/g.train.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Earn/learning_loop.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Earn/learning_loop.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Earn/push_linktree.sh
