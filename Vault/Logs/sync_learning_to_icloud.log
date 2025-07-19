@@ -2913,3 +2913,32 @@ Transfer starting: 1 files
 sent 87 bytes  received 20 bytes  34516 bytes/sec
 total size is 0  speedup is 0.00
 [Sat Jul 19 09:05:05 CEST 2025] Sync fullført.
+[Sat Jul 19 09:10:31 CEST 2025] Starter iCloud sync...
+[Sat Jul 19 09:10:31 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  11758 bytes/sec
+total size is 0  speedup is 0.00
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  11758 bytes/sec
+total size is 0  speedup is 0.00
+[Sat Jul 19 09:10:31 CEST 2025] Sync fullført.
+[Sat Jul 19 09:10:31 CEST 2025] Sync fullført.
+[Sat Jul 19 09:10:31 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  26097 bytes/sec
+total size is 0  speedup is 0.00
+[Sat Jul 19 09:10:31 CEST 2025] Sync fullført.
+[Sat Jul 19 09:30:01 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+rsync(72739): error: /Users/christerolsen/Library/Mobile Documents/com~apple~CloudDocs/GinieVaultBackup/Learning/: open: Operation not permitted
+rsync(72739): error: rsync_receiver
+rsync(72736): error: unexpected end of file
+rsync(72736): error: io_read_nonblocking
+rsync(72736): error: io_read_blocking
+rsync(72736): error: io_read_flush
+rsync(72736): error: rsync_sender
+rsync(72736): warning: child 72739 exited with status 1
+[Sat Jul 19 09:30:01 CEST 2025] Sync fullført.
