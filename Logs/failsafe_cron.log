@@ -4408,3 +4408,18 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[main dda88e3] 🔒 Automatisk failsafe backup 2025-07-19 19:30:02
+ Committer: christer olsen <christerolsen@christers-MacBook-Pro-2.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 31 files changed, 1016 insertions(+), 3 deletions(-)
+[1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
