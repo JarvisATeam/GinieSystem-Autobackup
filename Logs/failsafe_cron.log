@@ -3625,3 +3625,20 @@ After doing this, you may fix the identity used for this commit with:
 {"ok":true,"result":{"message_id":641,"from":{"id":7970813653,"is_bot":true,"first_name":"Jarvis","username":"TheAteamJarvis_bot"},"chat":{"id":5624725784,"first_name":"Christer","last_name":"Olsen","type":"private"},"date":1752908405,"text":"\ud83d\udeaa Bypass-script kj\u00f8rt \u2013 sjekket for stengte d\u00f8rer 09:00:04"}}{"ok":true,"result":{"message_id":642,"from":{"id":7970813653,"is_bot":true,"first_name":"Jarvis","username":"TheAteamJarvis_bot"},"chat":{"id":5624725784,"first_name":"Christer","last_name":"Olsen","type":"private"},"date":1752908405,"text":"\ud83d\udeaa Bypass-script kj\u00f8rt \u2013 sjekket for stengte d\u00f8rer 09:00:04"}}{"ok":true,"result":{"message_id":645,"from":{"id":7970813653,"is_bot":true,"first_name":"Jarvis","username":"TheAteamJarvis_bot"},"chat":{"id":5624725784,"first_name":"Christer","last_name":"Olsen","type":"private"},"date":1752908406,"text":"\ud83d\udeaa Bypass-script kj\u00f8rt \u2013 sjekket for stengte d\u00f8rer 09:00:06"}}[1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
 [1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
 [1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
+[1;31m🔌 [NETTFEIL][0m Ingen internett. Trigger fallback nå.
+[1;31m🔌 [NETTFEIL][0m Ingen internett. Trigger fallback nå.
+[1;31m🔌 [NETTFEIL][0m Ingen internett. Trigger fallback nå.
+fatal: Unable to create '/Users/christerolsen/GinieSystem/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/christerolsen/GinieSystem/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
