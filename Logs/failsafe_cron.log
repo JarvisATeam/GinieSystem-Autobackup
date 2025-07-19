@@ -3765,3 +3765,20 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[main 225e8e4] 🔒 Automatisk failsafe backup 2025-07-19 11:00:03
+ Committer: christer olsen <christerolsen@christers-MacBook-Pro-2.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 41 files changed, 1616 insertions(+), 44 deletions(-)
+ create mode 100755 BackupFailsafe/Scripts/deep_wallet_key_search.sh
+[1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
+[1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
