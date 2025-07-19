@@ -2895,3 +2895,21 @@ rsync(61619): error: io_read_flush
 rsync(61619): error: rsync_sender
 rsync(61619): warning: child 61620 exited with status 1
 [Sat Jul 19 09:00:00 CEST 2025] Sync fullført.
+[Sat Jul 19 09:05:05 CEST 2025] Starter iCloud sync...
+[Sat Jul 19 09:05:05 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  15070 bytes/sec
+total size is 0  speedup is 0.00
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  15070 bytes/sec
+total size is 0  speedup is 0.00
+[Sat Jul 19 09:05:05 CEST 2025] Sync fullført.
+[Sat Jul 19 09:05:05 CEST 2025] Sync fullført.
+[Sat Jul 19 09:05:05 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  34516 bytes/sec
+total size is 0  speedup is 0.00
+[Sat Jul 19 09:05:05 CEST 2025] Sync fullført.
