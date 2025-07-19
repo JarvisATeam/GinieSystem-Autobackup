@@ -2942,3 +2942,50 @@ rsync(72736): error: io_read_flush
 rsync(72736): error: rsync_sender
 rsync(72736): warning: child 72739 exited with status 1
 [Sat Jul 19 09:30:01 CEST 2025] Sync fullført.
+[Sat Jul 19 09:32:19 CEST 2025] Starter iCloud sync...
+[Sat Jul 19 09:32:19 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  17540 bytes/sec
+total size is 0  speedup is 0.00
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  15070 bytes/sec
+total size is 0  speedup is 0.00
+[Sat Jul 19 09:32:19 CEST 2025] Sync fullført.
+[Sat Jul 19 09:32:19 CEST 2025] Sync fullført.
+[Sat Jul 19 09:32:20 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  26097 bytes/sec
+total size is 0  speedup is 0.00
+[Sat Jul 19 09:32:20 CEST 2025] Sync fullført.
+[Sat Jul 19 09:54:29 CEST 2025] Starter iCloud sync...
+[Sat Jul 19 09:54:29 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  15070 bytes/sec
+total size is 0  speedup is 0.00
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  17540 bytes/sec
+total size is 0  speedup is 0.00
+[Sat Jul 19 09:54:29 CEST 2025] Sync fullført.
+[Sat Jul 19 09:54:29 CEST 2025] Sync fullført.
+[Sat Jul 19 09:54:29 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  20980 bytes/sec
+total size is 0  speedup is 0.00
+[Sat Jul 19 09:54:29 CEST 2025] Sync fullført.
+[Sat Jul 19 10:00:00 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+rsync(83620): error: /Users/christerolsen/Library/Mobile Documents/com~apple~CloudDocs/GinieVaultBackup/Learning/: open: Operation not permitted
+rsync(83620): error: rsync_receiver
+rsync(83617): error: unexpected end of file
+rsync(83617): error: io_read_nonblocking
+rsync(83617): error: io_read_blocking
+rsync(83617): error: io_read_flush
+rsync(83617): error: rsync_sender
+rsync(83617): warning: child 83620 exited with status 1
+[Sat Jul 19 10:00:00 CEST 2025] Sync fullført.
