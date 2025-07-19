@@ -4310,3 +4310,4 @@ After doing this, you may fix the identity used for this commit with:
  create mode 100755 BackupFailsafe/Vault/g.vault_log.sh
  create mode 100755 BackupFailsafe/Vault/g.vault_ping.sh
 [1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
+[1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
