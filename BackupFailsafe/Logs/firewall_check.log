@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Sun Jul 20 18:15:00 CEST 2025
+🧱 [FIREWALL] Sun Jul 20 20:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -123,6 +123,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/gforce_genesis.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/gforce_warp_automagic.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/gforce_warp_automagic.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/g.hidden_image_tunnel.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.hidden_image_tunnel.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/gforce_total_repair.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/gforce_total_repair.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/father_ai_protector.sh
@@ -137,6 +139,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/ginie_fix_all.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/sync_learning_to_icloud.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/sync_learning_to_icloud.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/statuspanel.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/statuspanel.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/recover_binance_wallet.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/recover_binance_wallet.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.force.loop.sh
@@ -189,10 +193,20 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Trading/g_trade_pro.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Core/gforge_warp.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Core/gforge_warp.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Core/Language/reflection_mapper.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Core/Language/reflection_mapper.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Core/Language/translate_input.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Core/Language/translate_input.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Core/Evolve/loop_trip.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Core/Evolve/loop_trip.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Core/Evolve/self_mirror.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Core/Evolve/self_mirror.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Core/self_reflect.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Core/self_reflect.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Core/ginie_keyload.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Core/ginie_keyload.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/NanoTech/Spiker/nano.spiker.init.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/NanoTech/Spiker/nano.spiker.init.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Training/g.recall.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Training/g.recall.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Training/supplement_log.sh
@@ -239,6 +253,10 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/ScriptVersions/g.learn_2025-07-15T16-03-15.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/ScriptVersions/g.learn_2025-07-15T16-02-45.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/ScriptVersions/g.learn_2025-07-15T16-02-45.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Workflow/workflow_launcher.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Workflow/workflow_launcher.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Workflow/Dashboard/gen_flow_dashboard.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Workflow/Dashboard/gen_flow_dashboard.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/G.Force_Bumblebee_hacker.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/G.Force_Bumblebee_hacker.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_versioner.sh
@@ -293,6 +311,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforce_genesis.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforce_warp_automagic.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforce_warp_automagic.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.hidden_image_tunnel.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.hidden_image_tunnel.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforce_total_repair.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforce_total_repair.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/father_ai_protector.sh
@@ -307,6 +327,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_fix_all.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/sync_learning_to_icloud.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/sync_learning_to_icloud.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/statuspanel.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/statuspanel.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/recover_binance_wallet.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/recover_binance_wallet.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.force.loop.sh
@@ -359,10 +381,20 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Trading/g_trade_pro.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/gforge_warp.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/gforge_warp.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/Language/reflection_mapper.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/Language/reflection_mapper.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/Language/translate_input.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/Language/translate_input.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/Evolve/loop_trip.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/Evolve/loop_trip.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/Evolve/self_mirror.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/Evolve/self_mirror.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/self_reflect.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/self_reflect.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/ginie_keyload.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/ginie_keyload.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/NanoTech/Spiker/nano.spiker.init.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/NanoTech/Spiker/nano.spiker.init.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Training/g.recall.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Training/g.recall.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Training/supplement_log.sh
@@ -409,6 +441,10 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/ScriptVersions/g.learn_2025-07-15T16-03-15.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/ScriptVersions/g.learn_2025-07-15T16-02-45.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/ScriptVersions/g.learn_2025-07-15T16-02-45.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Workflow/workflow_launcher.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Workflow/workflow_launcher.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Workflow/Dashboard/gen_flow_dashboard.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Workflow/Dashboard/gen_flow_dashboard.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/G.Force_Bumblebee_hacker.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/G.Force_Bumblebee_hacker.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_versioner.sh
@@ -477,6 +513,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_fix_all.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/sync_learning_to_icloud.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/sync_learning_to_icloud.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/statuspanel.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/statuspanel.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/recover_binance_wallet.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/recover_binance_wallet.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.force.loop.sh
@@ -555,6 +593,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/TrainApp/g.log_train.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/telegram_notify.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/telegram_notify.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/HiddenVision/2025-07-20/view.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/HiddenVision/2025-07-20/view.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/g.vault_ping.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/g.vault_ping.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/g.vault_log.sh
@@ -569,6 +609,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/TrainApp/g.muscle_ai.sh
 🧪 /Users/christerolsen/GinieSystem/TrainApp/g.log_train.sh
 ✅ OK: /Users/christerolsen/GinieSystem/TrainApp/g.log_train.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/HiddenVision/2025-07-20/view.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/HiddenVision/2025-07-20/view.sh
 🧪 /Users/christerolsen/GinieSystem/Vault/g.vault_ping.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Vault/g.vault_ping.sh
 🧪 /Users/christerolsen/GinieSystem/Vault/g.vault_log.sh
