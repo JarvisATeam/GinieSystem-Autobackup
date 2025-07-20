@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Sun Jul 20 04:15:00 CEST 2025
+🧱 [FIREWALL] Sun Jul 20 06:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -59,6 +59,8 @@
 ❌ FEIL i: /Users/christerolsen/GinieSystem/Scripts/G.Force_Bumblebee_hacker.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/ginie_versioner.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/ginie_versioner.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/crypto_discover.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/crypto_discover.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.recall.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.recall.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/yes_to_all_loop_forever.sh
@@ -85,6 +87,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/send_from_sol.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.voice.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.voice.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/crypto_vault.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/crypto_vault.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.learn.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.learn.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/telegram_notify.sh
@@ -163,6 +167,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/start_all_visible.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/gfix_backup.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/gfix_backup.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/earn_mission.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/earn_mission.sh
 🧪 /Users/christerolsen/GinieSystem/Trading/g_trade_pro.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Trading/g_trade_pro.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Core/gforge_warp.sh
@@ -221,6 +227,8 @@
 ❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/G.Force_Bumblebee_hacker.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_versioner.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_versioner.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/crypto_discover.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/crypto_discover.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.recall.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.recall.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/yes_to_all_loop_forever.sh
@@ -247,6 +255,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/send_from_sol.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.voice.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.voice.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/crypto_vault.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/crypto_vault.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.learn.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.learn.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/telegram_notify.sh
@@ -325,6 +335,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/start_all_visible.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gfix_backup.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gfix_backup.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/earn_mission.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/earn_mission.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Trading/g_trade_pro.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Trading/g_trade_pro.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/gforge_warp.sh
