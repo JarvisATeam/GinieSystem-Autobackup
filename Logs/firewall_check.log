@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Sun Jul 20 02:15:00 CEST 2025
+🧱 [FIREWALL] Sun Jul 20 04:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -79,6 +79,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/ginietest_autorun.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/psilo_2.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/psilo_2.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/ginie_selfcheck.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/ginie_selfcheck.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/send_from_sol.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/send_from_sol.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.voice.sh
@@ -239,6 +241,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginietest_autorun.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/psilo_2.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/psilo_2.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_selfcheck.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_selfcheck.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/send_from_sol.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/send_from_sol.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.voice.sh
@@ -399,6 +403,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginietest_autorun.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/psilo_2.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/psilo_2.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_selfcheck.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_selfcheck.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/send_from_sol.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/send_from_sol.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.voice.sh
