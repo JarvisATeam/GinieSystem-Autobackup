@@ -2052,3 +2052,45 @@
 /Users/christerolsen/GinieSystem/BackupFailsafe/setup_all_earn.sh: line 40: syntax error: unexpected end of file
 /Users/christerolsen/GinieSystem/setup_all_earn.sh: line 38: unexpected EOF while looking for matching `"'
 /Users/christerolsen/GinieSystem/setup_all_earn.sh: line 40: syntax error: unexpected end of file
+/Users/christerolsen/GinieSystem/Scripts/G.Force_Bumblebee_hacker.sh: line 13: syntax error near unexpected token `|'
+/Users/christerolsen/GinieSystem/Scripts/G.Force_Bumblebee_hacker.sh: line 13: `| tee -a "$LOG" # Lringslogg og varsler echo '
+/Users/christerolsen/GinieSystem/Scripts/vault_repair.sh: line 26: unexpected EOF while looking for matching `"'
+/Users/christerolsen/GinieSystem/Scripts/vault_repair.sh: line 27: syntax error: unexpected end of file
+/Users/christerolsen/GinieSystem/Scripts/g.train.sh: line 7: syntax error near unexpected token `do'
+/Users/christerolsen/GinieSystem/Scripts/g.train.sh: line 7: `"Underkropp" "Fullkropp"; do break; done '
+/Users/christerolsen/GinieSystem/Scripts/psilo_3.sh: line 27: unexpected EOF while looking for matching `"'
+/Users/christerolsen/GinieSystem/Scripts/psilo_3.sh: line 28: syntax error: unexpected end of file
+/Users/christerolsen/GinieSystem/Scripts/record_voice_note.sh: line 2: syntax error near unexpected token `)'
+/Users/christerolsen/GinieSystem/Scripts/record_voice_note.sh: line 2: `+%H-%M) FILENAME="voice_note_${TIME}.wav" '
+/Users/christerolsen/GinieSystem/Scripts/validate_keys.sh: line 7: syntax error near unexpected token `do'
+/Users/christerolsen/GinieSystem/Scripts/validate_keys.sh: line 7: `gmail_pass.gpg; do'
+/Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/G.Force_Bumblebee_hacker.sh: line 13: syntax error near unexpected token `|'
+/Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/G.Force_Bumblebee_hacker.sh: line 13: `| tee -a "$LOG" # Lringslogg og varsler echo '
+/Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/vault_repair.sh: line 26: unexpected EOF while looking for matching `"'
+/Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/vault_repair.sh: line 27: syntax error: unexpected end of file
+/Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.train.sh: line 7: syntax error near unexpected token `do'
+/Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.train.sh: line 7: `"Underkropp" "Fullkropp"; do break; done '
+/Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/psilo_3.sh: line 27: unexpected EOF while looking for matching `"'
+/Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/psilo_3.sh: line 28: syntax error: unexpected end of file
+/Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/record_voice_note.sh: line 2: syntax error near unexpected token `)'
+/Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/record_voice_note.sh: line 2: `+%H-%M) FILENAME="voice_note_${TIME}.wav" '
+/Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/validate_keys.sh: line 7: syntax error near unexpected token `do'
+/Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/validate_keys.sh: line 7: `gmail_pass.gpg; do'
+/Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/G.Force_Bumblebee_hacker.sh: line 13: syntax error near unexpected token `|'
+/Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/G.Force_Bumblebee_hacker.sh: line 13: `| tee -a "$LOG" # Lringslogg og varsler echo '
+/Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/vault_repair.sh: line 26: unexpected EOF while looking for matching `"'
+/Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/vault_repair.sh: line 27: syntax error: unexpected end of file
+/Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.train.sh: line 7: syntax error near unexpected token `do'
+/Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.train.sh: line 7: `"Underkropp" "Fullkropp"; do break; done '
+/Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/psilo_3.sh: line 27: unexpected EOF while looking for matching `"'
+/Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/psilo_3.sh: line 28: syntax error: unexpected end of file
+/Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/record_voice_note.sh: line 2: syntax error near unexpected token `)'
+/Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/record_voice_note.sh: line 2: `+%H-%M) FILENAME="voice_note_${TIME}.wav" '
+/Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/validate_keys.sh: line 7: syntax error near unexpected token `do'
+/Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/validate_keys.sh: line 7: `gmail_pass.gpg; do'
+/Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/setup_all_earn.sh: line 38: unexpected EOF while looking for matching `"'
+/Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/setup_all_earn.sh: line 40: syntax error: unexpected end of file
+/Users/christerolsen/GinieSystem/BackupFailsafe/setup_all_earn.sh: line 38: unexpected EOF while looking for matching `"'
+/Users/christerolsen/GinieSystem/BackupFailsafe/setup_all_earn.sh: line 40: syntax error: unexpected end of file
+/Users/christerolsen/GinieSystem/setup_all_earn.sh: line 38: unexpected EOF while looking for matching `"'
+/Users/christerolsen/GinieSystem/setup_all_earn.sh: line 40: syntax error: unexpected end of file
