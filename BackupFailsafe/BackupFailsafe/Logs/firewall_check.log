@@ -1,14 +1,24 @@
-🧱 [FIREWALL] Sun Jul 20 16:15:00 CEST 2025
+🧱 [FIREWALL] Sun Jul 20 18:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
 ✅ /Users/christerolsen/.notion_token finnes
 🧪 /Users/christerolsen/GinieSystem/Core/gforge_warp.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Core/gforge_warp.sh
+🧪 /Users/christerolsen/GinieSystem/Core/Language/reflection_mapper.sh
+✅ OK: /Users/christerolsen/GinieSystem/Core/Language/reflection_mapper.sh
+🧪 /Users/christerolsen/GinieSystem/Core/Language/translate_input.sh
+✅ OK: /Users/christerolsen/GinieSystem/Core/Language/translate_input.sh
+🧪 /Users/christerolsen/GinieSystem/Core/Evolve/loop_trip.sh
+✅ OK: /Users/christerolsen/GinieSystem/Core/Evolve/loop_trip.sh
+🧪 /Users/christerolsen/GinieSystem/Core/Evolve/self_mirror.sh
+✅ OK: /Users/christerolsen/GinieSystem/Core/Evolve/self_mirror.sh
 🧪 /Users/christerolsen/GinieSystem/Core/self_reflect.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Core/self_reflect.sh
 🧪 /Users/christerolsen/GinieSystem/Core/ginie_keyload.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Core/ginie_keyload.sh
+🧪 /Users/christerolsen/GinieSystem/NanoTech/Spiker/nano.spiker.init.sh
+✅ OK: /Users/christerolsen/GinieSystem/NanoTech/Spiker/nano.spiker.init.sh
 🧪 /Users/christerolsen/GinieSystem/Training/g.recall.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Training/g.recall.sh
 🧪 /Users/christerolsen/GinieSystem/Training/supplement_log.sh
@@ -55,6 +65,10 @@
 ✅ OK: /Users/christerolsen/GinieSystem/ScriptVersions/g.learn_2025-07-15T16-03-15.sh
 🧪 /Users/christerolsen/GinieSystem/ScriptVersions/g.learn_2025-07-15T16-02-45.sh
 ✅ OK: /Users/christerolsen/GinieSystem/ScriptVersions/g.learn_2025-07-15T16-02-45.sh
+🧪 /Users/christerolsen/GinieSystem/Workflow/workflow_launcher.sh
+✅ OK: /Users/christerolsen/GinieSystem/Workflow/workflow_launcher.sh
+🧪 /Users/christerolsen/GinieSystem/Workflow/Dashboard/gen_flow_dashboard.sh
+✅ OK: /Users/christerolsen/GinieSystem/Workflow/Dashboard/gen_flow_dashboard.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/G.Force_Bumblebee_hacker.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/Scripts/G.Force_Bumblebee_hacker.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/ginie_versioner.sh
