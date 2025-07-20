@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Sun Jul 20 22:15:00 CEST 2025
+🧱 [FIREWALL] Mon Jul 21 00:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -491,6 +491,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/psilo_2.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_selfcheck.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_selfcheck.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.mic_shield.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.mic_shield.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/send_from_sol.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/send_from_sol.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.voice.sh
@@ -543,6 +545,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.force.loop.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/record_voice_note.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/record_voice_note.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.mic_qr.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.mic_qr.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/telegram_listen.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/telegram_listen.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/nano_wizard.sh
@@ -595,6 +599,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/TrainApp/g.train.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/TrainApp/g.muscle_ai.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/TrainApp/g.muscle_ai.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/TrainApp/install_trainapp.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/TrainApp/install_trainapp.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/TrainApp/g.log_train.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/TrainApp/g.log_train.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/telegram_notify.sh
