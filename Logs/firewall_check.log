@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Sun Jul 20 06:15:00 CEST 2025
+🧱 [FIREWALL] Sun Jul 20 08:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -123,6 +123,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/ginie_fix_all.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/sync_learning_to_icloud.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/sync_learning_to_icloud.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/recover_binance_wallet.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/recover_binance_wallet.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.force.loop.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.force.loop.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/record_voice_note.sh
@@ -291,6 +293,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_fix_all.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/sync_learning_to_icloud.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/sync_learning_to_icloud.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/recover_binance_wallet.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/recover_binance_wallet.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.force.loop.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.force.loop.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/record_voice_note.sh
@@ -395,6 +399,8 @@
 ❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/G.Force_Bumblebee_hacker.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_versioner.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_versioner.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/crypto_discover.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/crypto_discover.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.recall.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.recall.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/yes_to_all_loop_forever.sh
@@ -421,6 +427,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/send_from_sol.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.voice.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.voice.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/crypto_vault.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/crypto_vault.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.learn.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.learn.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/telegram_notify.sh
@@ -455,6 +463,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_fix_all.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/sync_learning_to_icloud.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/sync_learning_to_icloud.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/recover_binance_wallet.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/recover_binance_wallet.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.force.loop.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.force.loop.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/record_voice_note.sh
@@ -499,6 +509,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/start_all_visible.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gfix_backup.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gfix_backup.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/earn_mission.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/earn_mission.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Trading/g_trade_pro.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Trading/g_trade_pro.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/setup_all_earn.sh
