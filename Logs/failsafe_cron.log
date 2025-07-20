@@ -6200,3 +6200,4 @@ After doing this, you may fix the identity used for this commit with:
  create mode 100755 BackupFailsafe/BackupFailsafe/Workflow/Dashboard/gen_flow_dashboard.sh
  create mode 100644 BackupFailsafe/BackupFailsafe/Workflow/workflow.map.yml
  create mode 100755 BackupFailsafe/BackupFailsafe/Workflow/workflow_launcher.sh
+[1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
