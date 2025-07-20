@@ -3043,3 +3043,13 @@
 [2025-07-20 11:00:08] ✅ Byggescript gjenopprettet
 [2025-07-20 11:00:08] 🏁 Bypass-script fullført.
 [2025-07-20 11:00:13] 🚪 Bypass aktivert – sjekker for blokkerte dører...
+[2025-07-20 11:00:15] ❌ Git push blokkert – dør stengt
+[2025-07-20 11:00:16] ✅ Cron aktiv for failsafe
+[2025-07-20 11:00:16] 📦 Byggescript manglet – gjenoppretter...
+[2025-07-20 11:00:16] ✅ Byggescript gjenopprettet
+[2025-07-20 11:00:16] 🏁 Bypass-script fullført.
+[2025-07-20 11:00:42] ✅ Cron aktiv for failsafe
+[2025-07-20 11:00:42] 📦 Byggescript manglet – gjenoppretter...
+[2025-07-20 11:00:42] ✅ Byggescript gjenopprettet
+[2025-07-20 11:00:42] 🏁 Bypass-script fullført.
+[2025-07-20 11:10:00] 🚪 Bypass aktivert – sjekker for blokkerte dører...
