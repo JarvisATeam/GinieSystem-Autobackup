@@ -1,6 +1,3 @@
 #!/bin/bash
-PROFILE=$1
-LOGFILE="$HOME/GinieSystem/Profiles/$PROFILE/train_log.md"
-echo "📈 Progresjon for $PROFILE"
-grep -i "kg" "$LOGFILE" | awk -F'–' '{print $2 " - " $3}' | sort | uniq -c | sort -nr | head -n 10
-
+echo "🔍 Analyserer progresjon..."
+awk -F, '{print \$2,\$3,\$4}' "$APP_DIR/train_log.csv" | sort | uniq -c | sort -nr | head
