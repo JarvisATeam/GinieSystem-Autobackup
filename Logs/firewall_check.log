@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Sun Jul 20 20:15:00 CEST 2025
+🧱 [FIREWALL] Sun Jul 20 22:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -73,6 +73,8 @@
 ❌ FEIL i: /Users/christerolsen/GinieSystem/Scripts/G.Force_Bumblebee_hacker.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/ginie_versioner.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/ginie_versioner.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/g.cron_monitor.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.cron_monitor.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/crypto_discover.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/crypto_discover.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.recall.sh
@@ -97,6 +99,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/psilo_2.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/ginie_selfcheck.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/ginie_selfcheck.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/g.mic_shield.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.mic_shield.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/send_from_sol.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/send_from_sol.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.voice.sh
@@ -125,6 +129,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/gforce_warp_automagic.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.hidden_image_tunnel.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.hidden_image_tunnel.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/g.cron_sanitize.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.cron_sanitize.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/gforce_total_repair.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/gforce_total_repair.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/father_ai_protector.sh
@@ -147,6 +153,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.force.loop.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/record_voice_note.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/Scripts/record_voice_note.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/g.mic_qr.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.mic_qr.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/telegram_listen.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/telegram_listen.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/nano_wizard.sh
@@ -261,6 +269,8 @@
 ❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/G.Force_Bumblebee_hacker.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_versioner.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_versioner.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.cron_monitor.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.cron_monitor.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/crypto_discover.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/crypto_discover.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.recall.sh
@@ -285,6 +295,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/psilo_2.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_selfcheck.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_selfcheck.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.mic_shield.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.mic_shield.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/send_from_sol.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/send_from_sol.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.voice.sh
@@ -313,6 +325,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforce_warp_automagic.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.hidden_image_tunnel.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.hidden_image_tunnel.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.cron_sanitize.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.cron_sanitize.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforce_total_repair.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforce_total_repair.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/father_ai_protector.sh
@@ -335,6 +349,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.force.loop.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/record_voice_note.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/record_voice_note.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.mic_qr.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.mic_qr.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/telegram_listen.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/telegram_listen.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/nano_wizard.sh
@@ -449,6 +465,8 @@
 ❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/G.Force_Bumblebee_hacker.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_versioner.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_versioner.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.cron_monitor.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.cron_monitor.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/crypto_discover.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/crypto_discover.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.recall.sh
@@ -499,6 +517,10 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gforce_genesis.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gforce_warp_automagic.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gforce_warp_automagic.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.hidden_image_tunnel.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.hidden_image_tunnel.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.cron_sanitize.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.cron_sanitize.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gforce_total_repair.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gforce_total_repair.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/father_ai_protector.sh
@@ -577,6 +599,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/TrainApp/g.log_train.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/telegram_notify.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/telegram_notify.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/HiddenVision/2025-07-20/view.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/HiddenVision/2025-07-20/view.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/g.vault_ping.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/g.vault_ping.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/g.vault_log.sh
@@ -589,6 +613,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/TrainApp/g.train.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/TrainApp/g.muscle_ai.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/TrainApp/g.muscle_ai.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/TrainApp/install_trainapp.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/TrainApp/install_trainapp.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/TrainApp/g.log_train.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/TrainApp/g.log_train.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/telegram_notify.sh
@@ -607,6 +633,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/TrainApp/g.train.sh
 🧪 /Users/christerolsen/GinieSystem/TrainApp/g.muscle_ai.sh
 ✅ OK: /Users/christerolsen/GinieSystem/TrainApp/g.muscle_ai.sh
+🧪 /Users/christerolsen/GinieSystem/TrainApp/install_trainapp.sh
+✅ OK: /Users/christerolsen/GinieSystem/TrainApp/install_trainapp.sh
 🧪 /Users/christerolsen/GinieSystem/TrainApp/g.log_train.sh
 ✅ OK: /Users/christerolsen/GinieSystem/TrainApp/g.log_train.sh
 🧪 /Users/christerolsen/GinieSystem/Vault/HiddenVision/2025-07-20/view.sh
