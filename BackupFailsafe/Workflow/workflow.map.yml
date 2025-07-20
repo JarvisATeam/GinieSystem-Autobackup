@@ -1,0 +1,22 @@
+version: 1.0
+workflow:
+  spiker_init:
+    status: active
+    trigger: nano.spiker.init.sh
+    depends_on: [vault, trip, agent_init]
+  p.shillosybe_loop:
+    status: running
+    iterations: 100
+    triplog: loop_trip.log
+  self_reflection:
+    status: running
+    mirror: self_mirror.sh
+  vault_ping:
+    status: enabled
+    method: git + telegram
+  language_core:
+    status: expanded
+    languages: [nb, en, da, es, de, fr]
+  avatar_mode:
+    status: active
+    saved: Vault/Avatars/

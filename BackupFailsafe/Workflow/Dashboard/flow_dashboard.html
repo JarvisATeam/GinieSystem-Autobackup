@@ -1,0 +1,27 @@
+<!DOCTYPE html><html><head><meta charset='UTF-8'><title>Ginie Flow Dashboard</title></head><body style='font-family:sans-serif;background:#111;color:#0f0;padding:2em;'>
+<h1>🧠 Ginie Flow Dashboard</h1><p><b>Tid:</b> 2025-07-20 18:12:58</p><hr>
+<pre style='font-size:14px;'>
+version: 1.0
+workflow:
+  spiker_init:
+    status: active
+    trigger: nano.spiker.init.sh
+    depends_on: [vault, trip, agent_init]
+  p.shillosybe_loop:
+    status: running
+    iterations: 100
+    triplog: loop_trip.log
+  self_reflection:
+    status: running
+    mirror: self_mirror.sh
+  vault_ping:
+    status: enabled
+    method: git + telegram
+  language_core:
+    status: expanded
+    languages: [nb, en, da, es, de, fr]
+  avatar_mode:
+    status: active
+    saved: Vault/Avatars/
+</pre>
+<p style='color:#888;'>Automatisk generert av GinieSystem</p></body></html>
