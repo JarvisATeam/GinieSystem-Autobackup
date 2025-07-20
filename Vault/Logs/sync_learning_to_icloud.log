@@ -4026,3 +4026,21 @@ rsync(82203): error: io_read_flush
 rsync(82203): error: rsync_sender
 rsync(82203): warning: child 82207 exited with status 1
 [Sun Jul 20 21:00:00 CEST 2025] Sync fullført.
+[søn. 20 jul. 2025 21.01.43 CEST] Starter iCloud sync...
+[søn. 20 jul. 2025 21.01.43 CEST] Starter iCloud sync...
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  763 bytes/sec
+total size is 0  speedup is 0,00
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  774 bytes/sec
+total size is 0  speedup is 0,00
+[søn. 20 jul. 2025 21.01.43 CEST] Sync fullført.
+[søn. 20 jul. 2025 21.01.43 CEST] Sync fullført.
+[søn. 20 jul. 2025 21.01.43 CEST] Starter iCloud sync...
+Transfer starting: 1 files
+
+sent 87 bytes  received 20 bytes  15070 bytes/sec
+total size is 0  speedup is 0,00
+[søn. 20 jul. 2025 21.01.43 CEST] Sync fullført.
