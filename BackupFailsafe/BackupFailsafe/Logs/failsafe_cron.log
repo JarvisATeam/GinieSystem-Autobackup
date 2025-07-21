@@ -6747,3 +6747,30 @@ After doing this, you may fix the identity used for this commit with:
  create mode 100644 BackupFailsafe/Vault/keys/elevenlabs.key
 [1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
 {"ok":true,"result":{"message_id":1173,"from":{"id":7970813653,"is_bot":true,"first_name":"Jarvis","username":"TheAteamJarvis_bot"},"chat":{"id":5624725784,"first_name":"Christer","last_name":"Olsen","type":"private"},"date":1753074014,"text":"\ud83d\udeaa Bypass-script kj\u00f8rt \u2013 sjekket for stengte d\u00f8rer 07:00:13"}}[1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
+[1;31m🔌 [NETTFEIL][0m Ingen internett. Trigger fallback nå.
+[main eb58d23] 🔒 Automatisk failsafe backup 2025-07-21 07:30:08
+ Committer: christer olsen <christerolsen@christers-MacBook-Pro-2.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 52 files changed, 1646 insertions(+), 16 deletions(-)
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/voice_loop.log
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/g.talk_loop.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/g.temp_mic_pause.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/g.voice_deploy.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/g.voice_reply.sh
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/keys/elevenlabs.key
+ create mode 100644 BackupFailsafe/Mikrofon
+ create mode 100644 BackupFailsafe/Personvern
+ create mode 100755 BackupFailsafe/Scripts/nanotec_fix_voice.sh
+ create mode 100644 BackupFailsafe/out.wav
+[1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
+{"ok":true,"result":{"message_id":1176,"from":{"id":7970813653,"is_bot":true,"first_name":"Jarvis","username":"TheAteamJarvis_bot"},"chat":{"id":5624725784,"first_name":"Christer","last_name":"Olsen","type":"private"},"date":1753075810,"text":"\ud83d\udeaa Bypass-script kj\u00f8rt \u2013 sjekket for stengte d\u00f8rer 07:30:10"}}[1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
