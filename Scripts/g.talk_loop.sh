@@ -1,4 +1,5 @@
 #!/bin/bash
+
 AUDIO_FILE="/tmp/ginie_speak.wav"
 TRANSCRIBE_API="https://api.openai.com/v1/audio/transcriptions"
 OPENAI_API=$(cat ~/GinieSystem/Vault/keys/openai.key)
@@ -6,11 +7,12 @@ MODEL="whisper-1"
 LOG="$HOME/GinieSystem/Logs/voice_loop.log"
 mkdir -p "$(dirname "$LOG")"
 
+echo "🌀 Ginie samtaleloop aktivert – trykk Ctrl+C for å avslutte."
+
 while true; do
-  echo "🎙️ Opptak (10s)..."
+  echo "🎤 Lytter..."
   ffmpeg -f avfoundation -i ":0" -t 10 -ac 1 -ar 16000 "$AUDIO_FILE" -y &> /dev/null
 
-  echo "🧠 Transkriberer..."
   RAW_TRANS=$(curl -s -X POST "$TRANSCRIBE_API" \
     -H "Authorization: Bearer $OPENAI_API" \
     -H "Content-Type: multipart/form-data" \
@@ -19,7 +21,7 @@ while true; do
 
   TRANSCRIPT=$(echo "$RAW_TRANS" | jq -r .text)
   [[ -z "$TRANSCRIPT" || "$TRANSCRIPT" == "null" ]] && {
-    echo "$(date '+%F %T') | 🚫 Ikke hørte noe." >> "$LOG"
+    echo "🚫 Hørte ikke noe."
     continue
   }
 
@@ -34,9 +36,8 @@ while true; do
   ANSWER=$(echo "$RAW_GPT" | jq -r '.choices[0].message.content')
 
   if [[ -z "$ANSWER" || "$ANSWER" == "null" || "$ANSWER" == "0" ]]; then
-    echo "🧠 Ginie: [feil i svar]"
-    echo "$(date '+%F %T') | ❌ GPT returnerte NULL eller 0" >> "$LOG"
-    bash ~/GinieSystem/Scripts/g.temp_mic_pause.sh "Beklager, jeg hørte deg ikke tydelig." >/dev/null 2>&1
+    echo "🧠 Ginie: [ingen svar]"
+    echo "$(date '+%F %T') | ❌ GPT returnerte NULL" >> "$LOG"
     continue
   fi
 
