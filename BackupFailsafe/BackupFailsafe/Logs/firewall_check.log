@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Mon Jul 21 04:15:00 CEST 2025
+🧱 [FIREWALL] Mon Jul 21 06:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -139,6 +139,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/gforce_firewall.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/search_wallet_with_status.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/search_wallet_with_status.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/g.shield_panel.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.shield_panel.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/extract_wallet_keys.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/extract_wallet_keys.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/ginie_fix_all.sh
@@ -147,6 +149,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/sync_learning_to_icloud.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/statuspanel.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/statuspanel.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/deploy_trainapp_on_wakeup.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/deploy_trainapp_on_wakeup.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/recover_binance_wallet.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/recover_binance_wallet.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.force.loop.sh
@@ -343,6 +347,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/sync_learning_to_icloud.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/statuspanel.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/statuspanel.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/deploy_trainapp_on_wakeup.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/deploy_trainapp_on_wakeup.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/recover_binance_wallet.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/recover_binance_wallet.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.force.loop.sh
