@@ -1,8 +1,10 @@
-🧱 [FIREWALL] Mon Jul 21 10:15:00 CEST 2025
+🧱 [FIREWALL] Mon Jul 21 12:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
 ✅ /Users/christerolsen/.notion_token finnes
+🧪 /Users/christerolsen/GinieSystem/SuperAppFactory/nano.superapp.deploy.sh
+✅ OK: /Users/christerolsen/GinieSystem/SuperAppFactory/nano.superapp.deploy.sh
 🧪 /Users/christerolsen/GinieSystem/Core/gforge_warp.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Core/gforge_warp.sh
 🧪 /Users/christerolsen/GinieSystem/Core/Language/reflection_mapper.sh
@@ -213,6 +215,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/earn_mission.sh
 🧪 /Users/christerolsen/GinieSystem/Trading/g_trade_pro.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Trading/g_trade_pro.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/SuperAppFactory/nano.superapp.deploy.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/SuperAppFactory/nano.superapp.deploy.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Core/gforge_warp.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Core/gforge_warp.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Core/Language/reflection_mapper.sh
