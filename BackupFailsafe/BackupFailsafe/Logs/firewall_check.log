@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Tue Jul 22 12:15:01 CEST 2025
+🧱 [FIREWALL] Tue Jul 22 14:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -75,6 +75,8 @@
 ❌ FEIL i: /Users/christerolsen/GinieSystem/Scripts/G.Force_Bumblebee_hacker.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/ginie_versioner.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/ginie_versioner.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/loop_trip.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/loop_trip.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.cron_monitor.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.cron_monitor.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/crypto_discover.sh
@@ -99,6 +101,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.truth_verify.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/psilo.2.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/psilo.2.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/vault_backup.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/vault_backup.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/ginietest_autorun.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/ginietest_autorun.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/psilo_2.sh
@@ -153,6 +157,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/gforce_firewall.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/search_wallet_with_status.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/search_wallet_with_status.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/whatsapp_alert.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/whatsapp_alert.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.shield_panel.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.shield_panel.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/extract_wallet_keys.sh
@@ -301,6 +307,8 @@
 ❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/G.Force_Bumblebee_hacker.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_versioner.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_versioner.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/loop_trip.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/loop_trip.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.cron_monitor.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.cron_monitor.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/crypto_discover.sh
@@ -325,6 +333,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.truth_verify.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/psilo.2.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/psilo.2.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/vault_backup.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/vault_backup.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginietest_autorun.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginietest_autorun.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/psilo_2.sh
@@ -379,6 +389,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforce_firewall.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/search_wallet_with_status.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/search_wallet_with_status.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/whatsapp_alert.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/whatsapp_alert.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.shield_panel.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.shield_panel.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/extract_wallet_keys.sh
@@ -527,6 +539,8 @@
 ❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/G.Force_Bumblebee_hacker.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_versioner.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_versioner.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/loop_trip.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/loop_trip.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.cron_monitor.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.cron_monitor.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/crypto_discover.sh
@@ -551,6 +565,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.truth_verify.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/psilo.2.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/psilo.2.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/vault_backup.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/vault_backup.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginietest_autorun.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginietest_autorun.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/psilo_2.sh
@@ -605,6 +621,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gforce_firewall.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/search_wallet_with_status.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/search_wallet_with_status.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/whatsapp_alert.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/whatsapp_alert.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.shield_panel.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.shield_panel.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/extract_wallet_keys.sh
