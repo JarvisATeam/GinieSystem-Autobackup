@@ -1,2 +1,18 @@
 2025-07-21 04:22:00 ✅ Første snapshot lagret.
 2025-07-21 04:22:00 ✅ Første snapshot lagret.
+⚠️ Endring i crontab oppdaget på 2025-07-22 04:22:00:
+⚠️ Endring i crontab oppdaget på 2025-07-22 04:22:00:
+
+
+32d31
+32d31
+< 30 3 * * * bash ~/GinieSystem/Dreamscape_Autodeploy.sh
+< 30 3 * * * bash ~/GinieSystem/Dreamscape_Autodeploy.sh
+34d32
+34d32
+< 35 3 * * * bash $HOME/GinieSystem/Scripts/deploy_trainapp_on_wakeup.sh
+< 35 3 * * * bash $HOME/GinieSystem/Scripts/deploy_trainapp_on_wakeup.sh
+
+
+Sjekk rot i cron, potensiell duplikat eller utilsiktet endring.
+Sjekk rot i cron, potensiell duplikat eller utilsiktet endring.
