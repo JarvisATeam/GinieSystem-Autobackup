@@ -1,0 +1,15 @@
+{
+  "name": "GinieTrain Full",
+  "short_name": "TrainApp",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#00ff99",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/68/68956.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
