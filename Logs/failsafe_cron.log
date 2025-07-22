@@ -8023,3 +8023,4 @@ After doing this, you may fix the identity used for this commit with:
  35 files changed, 953 insertions(+), 3 deletions(-)
  create mode 100644 BackupFailsafe/Recovery/.DS_Store
 [1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
+{"ok":true,"result":{"message_id":1372,"from":{"id":7970813653,"is_bot":true,"first_name":"Jarvis","username":"TheAteamJarvis_bot"},"chat":{"id":5624725784,"first_name":"Christer","last_name":"Olsen","type":"private"},"date":1753210811,"text":"\ud83d\udeaa Bypass-script kj\u00f8rt \u2013 sjekket for stengte d\u00f8rer 21:00:11"}}
