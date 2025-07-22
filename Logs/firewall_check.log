@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Tue Jul 22 06:15:00 CEST 2025
+🧱 [FIREWALL] Tue Jul 22 08:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -95,6 +95,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/send_telegram.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/ginie_8h_loop.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/ginie_8h_loop.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/g.truth_verify.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.truth_verify.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/psilo.2.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/psilo.2.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/ginietest_autorun.sh
@@ -107,6 +109,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.mic_shield.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/send_from_sol.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/send_from_sol.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/g.boot_all.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.boot_all.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.voice.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.voice.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/crypto_vault.sh
@@ -127,6 +131,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.update_all.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/psilo_3.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/Scripts/psilo_3.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/g.manual_update_now.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.manual_update_now.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/gforge_prime_backup.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/gforge_prime_backup.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/gforce_genesis.sh
@@ -169,6 +175,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.temp_mic_pause.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/record_voice_note.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/Scripts/record_voice_note.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/g.git_autopush.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.git_autopush.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.mic_qr.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.mic_qr.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/telegram_listen.sh
@@ -213,6 +221,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/start_all_visible.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/gfix_backup.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/gfix_backup.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/g.recovery_loop.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.recovery_loop.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/earn_mission.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/earn_mission.sh
 🧪 /Users/christerolsen/GinieSystem/Verifier/testloop.sh
@@ -311,6 +321,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/send_telegram.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_8h_loop.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_8h_loop.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.truth_verify.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.truth_verify.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/psilo.2.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/psilo.2.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginietest_autorun.sh
@@ -323,6 +335,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.mic_shield.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/send_from_sol.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/send_from_sol.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.boot_all.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.boot_all.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.voice.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.voice.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/crypto_vault.sh
@@ -343,6 +357,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.update_all.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/psilo_3.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/psilo_3.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.manual_update_now.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.manual_update_now.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforge_prime_backup.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforge_prime_backup.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforce_genesis.sh
@@ -385,6 +401,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.temp_mic_pause.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/record_voice_note.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/record_voice_note.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.git_autopush.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.git_autopush.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.mic_qr.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.mic_qr.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/telegram_listen.sh
@@ -429,6 +447,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/start_all_visible.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gfix_backup.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gfix_backup.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.recovery_loop.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.recovery_loop.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/earn_mission.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/earn_mission.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Verifier/testloop.sh
@@ -527,6 +547,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/send_telegram.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_8h_loop.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_8h_loop.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.truth_verify.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.truth_verify.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/psilo.2.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/psilo.2.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginietest_autorun.sh
@@ -539,6 +561,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.mic_shield.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/send_from_sol.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/send_from_sol.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.boot_all.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.boot_all.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.voice.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.voice.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/crypto_vault.sh
@@ -559,6 +583,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.update_all.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/psilo_3.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/psilo_3.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.manual_update_now.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.manual_update_now.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gforge_prime_backup.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gforge_prime_backup.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gforce_genesis.sh
@@ -601,6 +627,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.temp_mic_pause.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/record_voice_note.sh
 ❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/record_voice_note.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.git_autopush.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.git_autopush.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.mic_qr.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.mic_qr.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/telegram_listen.sh
@@ -645,6 +673,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/start_all_visible.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gfix_backup.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gfix_backup.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.recovery_loop.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.recovery_loop.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/earn_mission.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/earn_mission.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Verifier/testloop.sh
