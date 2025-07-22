@@ -7491,3 +7491,148 @@ After doing this, you may fix the identity used for this commit with:
 [1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
 {"ok":true,"result":{"message_id":1286,"from":{"id":7970813653,"is_bot":true,"first_name":"Jarvis","username":"TheAteamJarvis_bot"},"chat":{"id":5624725784,"first_name":"Christer","last_name":"Olsen","type":"private"},"date":1753151412,"text":"\ud83d\udeaa Bypass-script kj\u00f8rt \u2013 sjekket for stengte d\u00f8rer 04:30:11"}}[1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
 [1;31m🔌 [NETTFEIL][0m Ingen internett. Trigger fallback nå.
+[main b0fbae6] 🔒 Automatisk failsafe backup 2025-07-22 05:00:12
+ Committer: christer olsen <christerolsen@christers-MacBook-Pro-2.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 178 files changed, 3345 insertions(+), 3 deletions(-)
+ create mode 100644 BackupFailsafe/SuperAppFactory/Builds/treningsapp/index.html
+ create mode 100644 BackupFailsafe/TrainApp/index.html
+ create mode 100644 BackupFailsafe/TrainApp/manifest.json
+ create mode 100644 BackupFailsafe/TrainApp/script.js
+ create mode 100644 BackupFailsafe/TrainApp/style.css
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_1.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_10.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_100.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_101.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_102.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_103.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_104.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_105.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_106.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_107.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_108.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_109.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_11.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_110.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_111.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_112.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_113.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_114.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_115.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_116.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_117.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_118.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_119.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_12.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_120.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_121.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_122.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_13.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_14.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_15.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_16.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_17.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_18.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_19.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_2.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_20.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_21.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_22.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_23.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_24.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_25.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_26.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_27.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_28.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_29.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_3.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_30.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_31.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_32.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_33.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_34.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_35.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_36.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_37.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_38.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_39.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_4.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_40.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_41.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_42.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_43.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_44.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_45.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_46.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_47.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_48.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_49.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_5.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_50.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_51.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_52.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_53.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_54.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_55.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_56.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_57.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_58.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_59.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_6.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_60.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_61.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_62.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_63.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_64.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_65.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_66.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_67.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_68.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_69.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_7.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_70.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_71.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_72.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_73.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_74.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_75.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_76.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_77.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_78.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_79.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_8.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_80.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_81.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_82.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_83.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_84.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_85.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_86.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_87.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_88.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_89.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_9.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_90.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_91.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_92.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_93.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_94.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_95.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_96.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_97.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_98.html
+ create mode 100644 BackupFailsafe/Verifier/Fixes/fix_99.html
+ create mode 100644 BackupFailsafe/Verifier/Logs/fails.log
+ create mode 100644 BackupFailsafe/Verifier/Tests/inputs.txt
+ create mode 100755 BackupFailsafe/Verifier/testloop.sh
+[1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
