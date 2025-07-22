@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Tue Jul 22 04:15:00 CEST 2025
+🧱 [FIREWALL] Tue Jul 22 06:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -163,6 +163,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/recover_binance_wallet.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.force.loop.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.force.loop.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/g.cron_autofix.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.cron_autofix.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.temp_mic_pause.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.temp_mic_pause.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/record_voice_note.sh
@@ -213,6 +215,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/gfix_backup.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/earn_mission.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/earn_mission.sh
+🧪 /Users/christerolsen/GinieSystem/Verifier/testloop.sh
+✅ OK: /Users/christerolsen/GinieSystem/Verifier/testloop.sh
 🧪 /Users/christerolsen/GinieSystem/Trading/g_trade_pro.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Trading/g_trade_pro.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/SuperAppFactory/nano.superapp.deploy.sh
@@ -375,6 +379,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/recover_binance_wallet.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.force.loop.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.force.loop.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.cron_autofix.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.cron_autofix.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.temp_mic_pause.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.temp_mic_pause.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/record_voice_note.sh
@@ -425,6 +431,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gfix_backup.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/earn_mission.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/earn_mission.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Verifier/testloop.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Verifier/testloop.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Trading/g_trade_pro.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Trading/g_trade_pro.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/SuperAppFactory/nano.superapp.deploy.sh
@@ -587,6 +595,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/recover_binance_wallet.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.force.loop.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.force.loop.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.cron_autofix.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.cron_autofix.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.temp_mic_pause.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.temp_mic_pause.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/record_voice_note.sh
@@ -637,6 +647,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gfix_backup.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/earn_mission.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/earn_mission.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Verifier/testloop.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Verifier/testloop.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Trading/g_trade_pro.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Trading/g_trade_pro.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/setup_all_earn.sh
