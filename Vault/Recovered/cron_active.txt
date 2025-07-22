@@ -41,3 +41,5 @@
 5 3 * * * bash ~/GinieSystem/Scripts/g.recovery_loop.sh
 5 3 * * * bash ~/GinieSystem/Scripts/g.recovery_loop.sh
 */15 * * * * bash ~/GinieSystem/Scripts/g.git_autopush.sh
+5 3 * * * bash ~/GinieSystem/Scripts/g.recovery_loop.sh
+*/15 * * * * bash ~/GinieSystem/Scripts/g.git_autopush.sh

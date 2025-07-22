@@ -1,13 +1,10 @@
 #!/bin/bash
-timestamp=$(date '+%Y-%m-%d_%H-%M-%S')
-report="~/GinieSystem/Vault/InitProof/init_report_$timestamp.txt"
+timestamp=$(date +"%Y-%m-%d_%H-%M-%S")
+report=~/GinieSystem/Vault/InitProof/init_report_${timestamp}.txt
 
-echo "🔥 INIT: $timestamp" > "$report"
-echo "🔍 SYSTEM STATUS" >> "$report"
-crontab -l >> "$report" 2>&1
-echo "⚙️ CPU:" >> "$report"
-ps aux | grep -i ginie | grep -v grep >> "$report"
-echo "📂 Files:" >> "$report"
+echo "🧠 AutoBevis kjøres: $timestamp" >> "$report"
+echo "" >> "$report"
+echo "📂 Earn-noder:" >> "$report"
 ls -lt ~/GinieSystem/Earn/active | head -n 10 >> "$report"
 
 # E-post
