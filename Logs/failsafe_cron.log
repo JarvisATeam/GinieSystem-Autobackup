@@ -8333,3 +8333,4 @@ After doing this, you may fix the identity used for this commit with:
  create mode 100644 BackupFailsafe/Vault/pin_breach.json_2025-07-23T09:01:44.gpg
 [1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
 {"ok":true,"result":{"message_id":1438,"from":{"id":7970813653,"is_bot":true,"first_name":"Jarvis","username":"TheAteamJarvis_bot"},"chat":{"id":5624725784,"first_name":"Christer","last_name":"Olsen","type":"private"},"date":1753255810,"text":"\ud83d\udeaa Bypass-script kj\u00f8rt \u2013 sjekket for stengte d\u00f8rer 09:30:10"}}[1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
+[1;31m🔌 [NETTFEIL][0m Ingen internett. Trigger fallback nå.
