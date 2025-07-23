@@ -5625,3 +5625,14 @@ Transfer starting: 1 files
 sent 87 bytes  received 20 bytes  20980 bytes/sec
 total size is 0  speedup is 0.00
 [Wed Jul 23 09:01:44 CEST 2025] Sync fullført.
+[Wed Jul 23 09:30:00 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+rsync(20970): error: /Users/christerolsen/Library/Mobile Documents/com~apple~CloudDocs/GinieVaultBackup/Learning/: open: Operation not permitted
+rsync(20970): error: rsync_receiver
+rsync(20965): error: unexpected end of file
+rsync(20965): error: io_read_nonblocking
+rsync(20965): error: io_read_blocking
+rsync(20965): error: io_read_flush
+rsync(20965): error: rsync_sender
+rsync(20965): warning: child 20970 exited with status 1
+[Wed Jul 23 09:30:00 CEST 2025] Sync fullført.
