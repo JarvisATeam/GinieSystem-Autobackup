@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Wed Jul 23 04:15:01 CEST 2025
+🧱 [FIREWALL] Wed Jul 23 06:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -19,6 +19,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Core/self_reflect.sh
 🧪 /Users/christerolsen/GinieSystem/Core/ginie_keyload.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Core/ginie_keyload.sh
+🧪 /Users/christerolsen/GinieSystem/Autostart/ginie_autostart.sh
+✅ OK: /Users/christerolsen/GinieSystem/Autostart/ginie_autostart.sh
 🧪 /Users/christerolsen/GinieSystem/NanoTech/Spiker/nano.spiker.init.sh
 ✅ OK: /Users/christerolsen/GinieSystem/NanoTech/Spiker/nano.spiker.init.sh
 🧪 /Users/christerolsen/GinieSystem/Training/g.recall.sh
@@ -645,6 +647,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.force.loop.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.cron_autofix.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.cron_autofix.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.bloodhound.scan.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.bloodhound.scan.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.temp_mic_pause.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.temp_mic_pause.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/record_voice_note.sh
