@@ -1,0 +1,2 @@
+2025-07-23 08:34:33 | ✅ Full deploy fra mobil
+2025-07-23 08:35:41 | ✅ Full fysisk deploy
