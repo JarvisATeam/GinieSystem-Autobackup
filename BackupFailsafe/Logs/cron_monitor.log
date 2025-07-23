@@ -16,3 +16,17 @@
 
 Sjekk rot i cron, potensiell duplikat eller utilsiktet endring.
 Sjekk rot i cron, potensiell duplikat eller utilsiktet endring.
+⚠️ Endring i crontab oppdaget på 2025-07-23 04:22:01:
+
+5,7d4
+< */15 * * * * bash ~/GinieSystem/Scripts/g.git_autopush.sh
+< */15 * * * * bash ~/GinieSystem/Scripts/g.git_autopush.sh
+< */15 * * * * bash ~/GinieSystem/Scripts/g.git_autopush.sh
+33a31
+> 22 4 * * * bash ~/GinieSystem/Scripts/g.cron_monitor.sh
+41,43d38
+< 5 3 * * * bash ~/GinieSystem/Scripts/g.recovery_loop.sh
+< 5 3 * * * bash ~/GinieSystem/Scripts/g.recovery_loop.sh
+< 5 3 * * * bash ~/GinieSystem/Scripts/g.recovery_loop.sh
+
+Sjekk rot i cron, potensiell duplikat eller utilsiktet endring.

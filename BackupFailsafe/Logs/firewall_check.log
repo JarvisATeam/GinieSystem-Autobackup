@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Wed Jul 23 02:15:00 CEST 2025
+🧱 [FIREWALL] Wed Jul 23 04:15:01 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -177,6 +177,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.force.loop.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.cron_autofix.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.cron_autofix.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/g.bloodhound.scan.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.bloodhound.scan.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.temp_mic_pause.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.temp_mic_pause.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/record_voice_note.sh
@@ -409,6 +411,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.force.loop.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.cron_autofix.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.cron_autofix.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.bloodhound.scan.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.bloodhound.scan.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.temp_mic_pause.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.temp_mic_pause.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/record_voice_note.sh
