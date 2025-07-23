@@ -37,9 +37,9 @@
 30 3 * * * bash ~/GinieSystem/Dreamscape_Autodeploy.sh
 35 3 * * * bash $HOME/GinieSystem/Scripts/deploy_trainapp_on_wakeup.sh
 */15 * * * * bash ~/GinieSystem/Scripts/g.git_autopush.sh
+5 3 * * * bash ~/GinieSystem/Scripts/g.recovery_loop.sh
+5 3 * * * bash ~/GinieSystem/Scripts/g.recovery_loop.sh
+*/15 * * * * bash ~/GinieSystem/Scripts/g.git_autopush.sh
+5 3 * * * bash ~/GinieSystem/Scripts/g.recovery_loop.sh
+*/15 * * * * bash ~/GinieSystem/Scripts/g.git_autopush.sh
 */5 * * * * bash ~/GinieSystem/Scripts/lock_guard.sh >> ~/GinieSystem/Vault/Logs/lock_guard.log 2>&1
-5 3 * * * bash ~/GinieSystem/Scripts/g.recovery_loop.sh
-5 3 * * * bash ~/GinieSystem/Scripts/g.recovery_loop.sh
-*/15 * * * * bash ~/GinieSystem/Scripts/g.git_autopush.sh
-5 3 * * * bash ~/GinieSystem/Scripts/g.recovery_loop.sh
-*/15 * * * * bash ~/GinieSystem/Scripts/g.git_autopush.sh
