@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Wed Jul 23 06:15:00 CEST 2025
+🧱 [FIREWALL] Wed Jul 23 08:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -255,6 +255,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Core/self_reflect.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Core/ginie_keyload.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Core/ginie_keyload.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Autostart/ginie_autostart.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Autostart/ginie_autostart.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/NanoTech/Spiker/nano.spiker.init.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/NanoTech/Spiker/nano.spiker.init.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Training/g.recall.sh
@@ -489,6 +491,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/self_reflect.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/ginie_keyload.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/ginie_keyload.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Autostart/ginie_autostart.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Autostart/ginie_autostart.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/NanoTech/Spiker/nano.spiker.init.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/NanoTech/Spiker/nano.spiker.init.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Training/g.recall.sh
