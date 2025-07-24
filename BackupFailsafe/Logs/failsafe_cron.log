@@ -9123,3 +9123,90 @@ After doing this, you may fix the identity used for this commit with:
  create mode 100755 BackupFailsafe/Vault/Snapshots/yes_to_all_loop_forever.sh
 [1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
 {"ok":true,"result":{"message_id":1602,"from":{"id":7970813653,"is_bot":true,"first_name":"Jarvis","username":"TheAteamJarvis_bot"},"chat":{"id":5624725784,"first_name":"Christer","last_name":"Olsen","type":"private"},"date":1753367422,"text":"\ud83d\udeaa Bypass-script kj\u00f8rt \u2013 sjekket for stengte d\u00f8rer 16:30:22"}}[1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
+[1;31m🔌 [NETTFEIL][0m Ingen internett. Trigger fallback nå.
+[main 5638e04] 🔒 Automatisk failsafe backup 2025-07-24 17:00:17
+ 121 files changed, 3292 insertions(+), 3 deletions(-)
+ create mode 100644 BackupFailsafe/BackupFailsafe/Logs/system_boot.log
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/G.Force_Bumblebee_hacker.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/autofix_gforge.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/crypto_discover.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/crypto_vault.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/deep_wallet_key_search.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/deploy_trainapp_on_wakeup.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/earn_mission.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/extract_wallet_keys.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/father_ai_protector.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.auto_ramwatch.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.autosave.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.bloodhound.scan.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.boot_all.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.cron_autofix.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.cron_monitor.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.cron_sanitize.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.force.loop.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.git_autopush.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.hidden_image_tunnel.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.learn.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.manual_update_now.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.mic_qr.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.mic_shield.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.recall.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.recovery_loop.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.shield_panel.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.superloop.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.talk_loop.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.temp_mic_pause.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.train.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.train_ai.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.truth_verify.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.update_all.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.voice.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.voice_deploy.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.voice_reply.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/gfix_backup.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/gforce_firewall.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/gforce_genesis.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/gforce_total_repair.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/gforce_warp_automagic.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/gforge_prime_autostart.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/gforge_prime_backup.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_8h_loop.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_bootstrap.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_bypass.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_dashboard.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_fix_all.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_implement.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_keyload.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_selfcheck.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_versioner.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_zip_to_icloud.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginietest_autorun.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/git_autosync.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/launch_nanotec.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/lock_guard.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/logg_postworkout.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/loop_trip.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/nano_wizard.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/nanotec_fix_voice.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/psilo.2.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/psilo_2.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/psilo_3.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/record_voice_note.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/recover_binance_wallet.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/search_pi_passphrase_notes.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/search_wallet_with_status.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/send_from_sol.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/send_telegram.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/start_all_visible.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/start_symbiose_cron.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/statuspanel.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/sync_learning_to_icloud.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/telegram_listen.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/telegram_notify.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/validate_keys.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/vault_backup.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/vault_repair.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/whatsapp_alert.sh
+ create mode 100755 BackupFailsafe/BackupFailsafe/Vault/Snapshots/yes_to_all_loop_forever.sh
+[1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
+{"ok":true,"result":{"message_id":1604,"from":{"id":7970813653,"is_bot":true,"first_name":"Jarvis","username":"TheAteamJarvis_bot"},"chat":{"id":5624725784,"first_name":"Christer","last_name":"Olsen","type":"private"},"date":1753369220,"text":"\ud83d\udeaa Bypass-script kj\u00f8rt \u2013 sjekket for stengte d\u00f8rer 17:00:19"}}[1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
