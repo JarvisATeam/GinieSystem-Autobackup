@@ -1,3 +1,4 @@
 Deploy kjørt: $(date '+%Y-%m-%d %H:%M:%S')
 Deploy kjørt: $(date '+%Y-%m-%d %H:%M:%S')
 Deploy kjørt: $(date '+%Y-%m-%d %H:%M:%S')
+Deploy kjørt: $(date '+%Y-%m-%d %H:%M:%S')
