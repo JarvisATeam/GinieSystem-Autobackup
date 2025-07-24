@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Thu Jul 24 16:15:00 CEST 2025
+🧱 [FIREWALL] Thu Jul 24 18:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -1551,6 +1551,168 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/TrainApp/install_trainapp.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/TrainApp/g.log_train.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/TrainApp/g.log_train.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/G.Force_Bumblebee_hacker.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/G.Force_Bumblebee_hacker.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_versioner.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_versioner.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/loop_trip.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/loop_trip.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.cron_monitor.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.cron_monitor.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/crypto_discover.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/crypto_discover.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.recall.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.recall.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.voice_deploy.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.voice_deploy.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/yes_to_all_loop_forever.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/yes_to_all_loop_forever.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/git_autosync.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/git_autosync.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.superloop.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.superloop.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/vault_repair.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/vault_repair.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/send_telegram.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/send_telegram.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_8h_loop.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_8h_loop.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.truth_verify.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.truth_verify.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/psilo.2.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/psilo.2.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/vault_backup.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/vault_backup.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginietest_autorun.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginietest_autorun.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/psilo_2.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/psilo_2.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_selfcheck.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_selfcheck.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.mic_shield.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.mic_shield.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/send_from_sol.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/send_from_sol.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.boot_all.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.boot_all.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.voice.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.voice.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/crypto_vault.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/crypto_vault.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.learn.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.learn.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/telegram_notify.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/telegram_notify.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.train.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.train.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.voice_reply.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.voice_reply.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_bootstrap.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_bootstrap.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/search_pi_passphrase_notes.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/search_pi_passphrase_notes.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.update_all.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.update_all.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/psilo_3.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/psilo_3.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.manual_update_now.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.manual_update_now.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/gforge_prime_backup.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/gforge_prime_backup.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/gforce_genesis.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/gforce_genesis.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/gforce_warp_automagic.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/gforce_warp_automagic.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.hidden_image_tunnel.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.hidden_image_tunnel.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.cron_sanitize.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.cron_sanitize.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/gforce_total_repair.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/gforce_total_repair.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/nanotec_fix_voice.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/nanotec_fix_voice.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/father_ai_protector.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/father_ai_protector.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/gforce_firewall.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/gforce_firewall.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/search_wallet_with_status.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/search_wallet_with_status.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/whatsapp_alert.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/whatsapp_alert.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.shield_panel.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.shield_panel.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/extract_wallet_keys.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/extract_wallet_keys.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_fix_all.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_fix_all.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/sync_learning_to_icloud.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/sync_learning_to_icloud.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/statuspanel.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/statuspanel.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/deploy_trainapp_on_wakeup.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/deploy_trainapp_on_wakeup.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/recover_binance_wallet.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/recover_binance_wallet.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.force.loop.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.force.loop.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.cron_autofix.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.cron_autofix.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.bloodhound.scan.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.bloodhound.scan.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.temp_mic_pause.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.temp_mic_pause.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/record_voice_note.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/record_voice_note.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.git_autopush.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.git_autopush.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.mic_qr.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.mic_qr.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/telegram_listen.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/telegram_listen.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/nano_wizard.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/nano_wizard.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/autofix_gforge.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/autofix_gforge.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_implement.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_implement.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/gforge_prime_autostart.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/gforge_prime_autostart.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_keyload.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_keyload.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.auto_ramwatch.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.auto_ramwatch.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_bypass.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_bypass.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/validate_keys.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/validate_keys.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.autosave.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.autosave.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_dashboard.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_dashboard.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/launch_nanotec.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/launch_nanotec.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/lock_guard.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/lock_guard.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.train_ai.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.train_ai.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_zip_to_icloud.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/ginie_zip_to_icloud.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/logg_postworkout.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/logg_postworkout.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.talk_loop.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.talk_loop.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/start_symbiose_cron.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/start_symbiose_cron.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/deep_wallet_key_search.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/deep_wallet_key_search.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/start_all_visible.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/start_all_visible.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/gfix_backup.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/gfix_backup.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.recovery_loop.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/g.recovery_loop.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/earn_mission.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/Snapshots/earn_mission.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/telegram_notify.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/telegram_notify.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Vault/HiddenVision/2025-07-20/view.sh
@@ -1571,6 +1733,168 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/TrainApp/install_trainapp.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/TrainApp/g.log_train.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/TrainApp/g.log_train.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/G.Force_Bumblebee_hacker.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/G.Force_Bumblebee_hacker.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/ginie_versioner.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/ginie_versioner.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/loop_trip.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/loop_trip.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.cron_monitor.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.cron_monitor.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/crypto_discover.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/crypto_discover.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.recall.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.recall.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.voice_deploy.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.voice_deploy.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/yes_to_all_loop_forever.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/yes_to_all_loop_forever.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/git_autosync.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/git_autosync.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.superloop.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.superloop.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/vault_repair.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/vault_repair.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/send_telegram.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/send_telegram.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/ginie_8h_loop.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/ginie_8h_loop.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.truth_verify.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.truth_verify.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/psilo.2.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/psilo.2.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/vault_backup.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/vault_backup.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/ginietest_autorun.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/ginietest_autorun.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/psilo_2.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/psilo_2.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/ginie_selfcheck.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/ginie_selfcheck.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.mic_shield.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.mic_shield.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/send_from_sol.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/send_from_sol.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.boot_all.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.boot_all.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.voice.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.voice.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/crypto_vault.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/crypto_vault.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.learn.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.learn.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/telegram_notify.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/telegram_notify.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.train.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.train.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.voice_reply.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.voice_reply.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/ginie_bootstrap.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/ginie_bootstrap.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/search_pi_passphrase_notes.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/search_pi_passphrase_notes.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.update_all.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.update_all.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/psilo_3.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/psilo_3.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.manual_update_now.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.manual_update_now.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/gforge_prime_backup.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/gforge_prime_backup.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/gforce_genesis.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/gforce_genesis.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/gforce_warp_automagic.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/gforce_warp_automagic.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.hidden_image_tunnel.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.hidden_image_tunnel.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.cron_sanitize.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.cron_sanitize.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/gforce_total_repair.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/gforce_total_repair.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/nanotec_fix_voice.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/nanotec_fix_voice.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/father_ai_protector.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/father_ai_protector.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/gforce_firewall.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/gforce_firewall.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/search_wallet_with_status.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/search_wallet_with_status.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/whatsapp_alert.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/whatsapp_alert.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.shield_panel.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.shield_panel.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/extract_wallet_keys.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/extract_wallet_keys.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/ginie_fix_all.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/ginie_fix_all.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/sync_learning_to_icloud.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/sync_learning_to_icloud.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/statuspanel.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/statuspanel.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/deploy_trainapp_on_wakeup.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/deploy_trainapp_on_wakeup.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/recover_binance_wallet.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/recover_binance_wallet.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.force.loop.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.force.loop.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.cron_autofix.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.cron_autofix.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.bloodhound.scan.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.bloodhound.scan.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.temp_mic_pause.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.temp_mic_pause.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/record_voice_note.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/record_voice_note.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.git_autopush.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.git_autopush.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.mic_qr.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.mic_qr.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/telegram_listen.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/telegram_listen.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/nano_wizard.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/nano_wizard.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/autofix_gforge.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/autofix_gforge.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/ginie_implement.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/ginie_implement.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/gforge_prime_autostart.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/gforge_prime_autostart.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/ginie_keyload.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/ginie_keyload.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.auto_ramwatch.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.auto_ramwatch.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/ginie_bypass.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/ginie_bypass.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/validate_keys.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/validate_keys.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.autosave.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.autosave.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/ginie_dashboard.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/ginie_dashboard.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/launch_nanotec.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/launch_nanotec.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/lock_guard.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/lock_guard.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.train_ai.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.train_ai.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/ginie_zip_to_icloud.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/ginie_zip_to_icloud.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/logg_postworkout.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/logg_postworkout.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.talk_loop.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.talk_loop.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/start_symbiose_cron.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/start_symbiose_cron.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/deep_wallet_key_search.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/deep_wallet_key_search.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/start_all_visible.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/start_all_visible.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/gfix_backup.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/gfix_backup.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.recovery_loop.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/g.recovery_loop.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/earn_mission.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/Snapshots/earn_mission.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/telegram_notify.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/telegram_notify.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Vault/HiddenVision/2025-07-20/view.sh
@@ -1591,6 +1915,168 @@
 ✅ OK: /Users/christerolsen/GinieSystem/TrainApp/install_trainapp.sh
 🧪 /Users/christerolsen/GinieSystem/TrainApp/g.log_train.sh
 ✅ OK: /Users/christerolsen/GinieSystem/TrainApp/g.log_train.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/G.Force_Bumblebee_hacker.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/Vault/Snapshots/G.Force_Bumblebee_hacker.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/ginie_versioner.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/ginie_versioner.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/loop_trip.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/loop_trip.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/g.cron_monitor.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/g.cron_monitor.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/crypto_discover.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/crypto_discover.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/g.recall.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/g.recall.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/g.voice_deploy.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/g.voice_deploy.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/yes_to_all_loop_forever.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/yes_to_all_loop_forever.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/git_autosync.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/git_autosync.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/g.superloop.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/g.superloop.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/vault_repair.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/Vault/Snapshots/vault_repair.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/send_telegram.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/send_telegram.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/ginie_8h_loop.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/ginie_8h_loop.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/g.truth_verify.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/g.truth_verify.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/psilo.2.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/psilo.2.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/vault_backup.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/vault_backup.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/ginietest_autorun.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/ginietest_autorun.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/psilo_2.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/psilo_2.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/ginie_selfcheck.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/ginie_selfcheck.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/g.mic_shield.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/g.mic_shield.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/send_from_sol.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/send_from_sol.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/g.boot_all.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/g.boot_all.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/g.voice.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/g.voice.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/crypto_vault.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/crypto_vault.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/g.learn.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/g.learn.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/telegram_notify.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/telegram_notify.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/g.train.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/Vault/Snapshots/g.train.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/g.voice_reply.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/g.voice_reply.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/ginie_bootstrap.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/ginie_bootstrap.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/search_pi_passphrase_notes.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/search_pi_passphrase_notes.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/g.update_all.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/g.update_all.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/psilo_3.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/Vault/Snapshots/psilo_3.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/g.manual_update_now.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/g.manual_update_now.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/gforge_prime_backup.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/gforge_prime_backup.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/gforce_genesis.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/gforce_genesis.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/gforce_warp_automagic.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/gforce_warp_automagic.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/g.hidden_image_tunnel.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/g.hidden_image_tunnel.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/g.cron_sanitize.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/g.cron_sanitize.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/gforce_total_repair.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/gforce_total_repair.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/nanotec_fix_voice.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/nanotec_fix_voice.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/father_ai_protector.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/father_ai_protector.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/gforce_firewall.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/gforce_firewall.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/search_wallet_with_status.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/search_wallet_with_status.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/whatsapp_alert.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/whatsapp_alert.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/g.shield_panel.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/g.shield_panel.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/extract_wallet_keys.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/extract_wallet_keys.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/ginie_fix_all.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/ginie_fix_all.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/sync_learning_to_icloud.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/sync_learning_to_icloud.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/statuspanel.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/statuspanel.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/deploy_trainapp_on_wakeup.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/deploy_trainapp_on_wakeup.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/recover_binance_wallet.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/recover_binance_wallet.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/g.force.loop.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/g.force.loop.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/g.cron_autofix.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/g.cron_autofix.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/g.bloodhound.scan.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/g.bloodhound.scan.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/g.temp_mic_pause.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/g.temp_mic_pause.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/record_voice_note.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/Vault/Snapshots/record_voice_note.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/g.git_autopush.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/g.git_autopush.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/g.mic_qr.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/g.mic_qr.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/telegram_listen.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/telegram_listen.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/nano_wizard.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/nano_wizard.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/autofix_gforge.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/autofix_gforge.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/ginie_implement.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/ginie_implement.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/gforge_prime_autostart.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/gforge_prime_autostart.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/ginie_keyload.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/ginie_keyload.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/g.auto_ramwatch.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/g.auto_ramwatch.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/ginie_bypass.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/ginie_bypass.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/validate_keys.sh
+❌ FEIL i: /Users/christerolsen/GinieSystem/Vault/Snapshots/validate_keys.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/g.autosave.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/g.autosave.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/ginie_dashboard.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/ginie_dashboard.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/launch_nanotec.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/launch_nanotec.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/lock_guard.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/lock_guard.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/g.train_ai.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/g.train_ai.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/ginie_zip_to_icloud.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/ginie_zip_to_icloud.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/logg_postworkout.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/logg_postworkout.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/g.talk_loop.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/g.talk_loop.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/start_symbiose_cron.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/start_symbiose_cron.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/deep_wallet_key_search.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/deep_wallet_key_search.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/start_all_visible.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/start_all_visible.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/gfix_backup.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/gfix_backup.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/g.recovery_loop.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/g.recovery_loop.sh
+🧪 /Users/christerolsen/GinieSystem/Vault/Snapshots/earn_mission.sh
+✅ OK: /Users/christerolsen/GinieSystem/Vault/Snapshots/earn_mission.sh
 🧪 /Users/christerolsen/GinieSystem/Vault/HiddenVision/2025-07-20/view.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Vault/HiddenVision/2025-07-20/view.sh
 🧪 /Users/christerolsen/GinieSystem/Vault/g.vault_ping.sh
