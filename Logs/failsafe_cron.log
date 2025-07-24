@@ -8917,4 +8917,4 @@ After doing this, you may fix the identity used for this commit with:
 [main 4f05047] 🔒 Automatisk failsafe backup 2025-07-24 05:00:20
  44 files changed, 1140 insertions(+), 3 deletions(-)
 [1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
-{"ok":true,"result":{"message_id":1541,"from":{"id":7970813653,"is_bot":true,"first_name":"Jarvis","username":"TheAteamJarvis_bot"},"chat":{"id":5624725784,"first_name":"Christer","last_name":"Olsen","type":"private"},"date":1753326023,"text":"\ud83d\udeaa Bypass-script kj\u00f8rt \u2013 sjekket for stengte d\u00f8rer 05:00:23"}}
+{"ok":true,"result":{"message_id":1541,"from":{"id":7970813653,"is_bot":true,"first_name":"Jarvis","username":"TheAteamJarvis_bot"},"chat":{"id":5624725784,"first_name":"Christer","last_name":"Olsen","type":"private"},"date":1753326023,"text":"\ud83d\udeaa Bypass-script kj\u00f8rt \u2013 sjekket for stengte d\u00f8rer 05:00:23"}}[1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
