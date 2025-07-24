@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Thu Jul 24 04:15:00 CEST 2025
+🧱 [FIREWALL] Thu Jul 24 06:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -837,6 +837,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Earn/earn_mission.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Agents/telegram_notify.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Agents/telegram_notify.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Agents/tiktok_poster/start_all.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Agents/tiktok_poster/start_all.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Agents/g.mailreader/g.mailreader.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Agents/g.mailreader/g.mailreader.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Agents/telegram_repair_restart.sh
@@ -1347,6 +1349,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Earn/earn_mission.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Agents/telegram_notify.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Agents/telegram_notify.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Agents/tiktok_poster/start_all.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Agents/tiktok_poster/start_all.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Agents/g.mailreader/g.mailreader.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Agents/g.mailreader/g.mailreader.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Agents/telegram_repair_restart.sh
