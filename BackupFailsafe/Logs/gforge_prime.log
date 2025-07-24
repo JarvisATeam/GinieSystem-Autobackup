@@ -1207,3 +1207,11 @@
 ??????? Backup fullf??rt kl 2025-07-23T09:01:43
 ??????? Backup fullf??rt kl 2025-07-23T09:01:44
 ??????? Backup fullf??rt kl 2025-07-23T09:01:43
+???? [g.forge.prime] Starter sikkerhetskopi 2025-07-24T04:44:00
+???? [g.forge.prime] Starter sikkerhetskopi 2025-07-24T04:44:00
+/Users/christerolsen/GinieSystem/Scripts/gforge_prime_backup.sh: line 25: gpg: command not found
+/Users/christerolsen/GinieSystem/Scripts/gforge_prime_backup.sh: line 25: gpg: command not found
+??????? Backup fullf??rt kl 2025-07-24T04:44:00
+??????? Backup fullf??rt kl 2025-07-24T04:44:00
+???? [g.forge.prime] Starter sikkerhetskopi 2025-07-24T05:00:00
+??????? Backup fullf??rt kl 2025-07-24T05:00:00
