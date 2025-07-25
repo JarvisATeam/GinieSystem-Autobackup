@@ -42,8 +42,8 @@
 */15 * * * * bash ~/GinieSystem/Scripts/g.git_autopush.sh
 5 3 * * * bash ~/GinieSystem/Scripts/g.recovery_loop.sh
 */15 * * * * bash ~/GinieSystem/Scripts/g.git_autopush.sh
-*/5 * * * * bash ~/GinieSystem/Scripts/lock_guard.sh >> ~/GinieSystem/Vault/Logs/lock_guard.log 2>&1
 0 5 * * * bash ~/GinieSystem/Scripts/ginie_bootstrap.sh
 0 6 * * * bash ~/GinieSystem/Earn/earn_mission.sh
 */30 * * * * bash ~/GinieSystem/Scripts/ping_watchdog.sh
 0 7 * * * bash ~/GINIE_VAULTSYNC_SELFUPDATER.sh
+*/5 * * * * bash ~/GinieSystem/Scripts/lock_guard.sh >> ~/GinieSystem/Vault/Logs/lock_guard.log 2>&1
