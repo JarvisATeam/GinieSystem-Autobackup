@@ -1,10 +1,12 @@
-🧱 [FIREWALL] Fri Jul 25 20:15:00 CEST 2025
+🧱 [FIREWALL] Fri Jul 25 22:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
 ✅ /Users/christerolsen/.notion_token finnes
 🧪 /Users/christerolsen/GinieSystem/SuperAppFactory/nano.superapp.deploy.sh
 ✅ OK: /Users/christerolsen/GinieSystem/SuperAppFactory/nano.superapp.deploy.sh
+🧪 /Users/christerolsen/GinieSystem/Monitor/ginie_monitor_ifttt.sh
+✅ OK: /Users/christerolsen/GinieSystem/Monitor/ginie_monitor_ifttt.sh
 🧪 /Users/christerolsen/GinieSystem/Core/gforge_warp.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Core/gforge_warp.sh
 🧪 /Users/christerolsen/GinieSystem/Core/Language/reflection_mapper.sh
@@ -471,6 +473,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/nano_wizard.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/autofix_gforge.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/autofix_gforge.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/nanotec.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/nanotec.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/ginie_implement.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/ginie_implement.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/gforge_prime_autostart.sh
@@ -517,6 +521,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Trading/g_trade_pro.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/SuperAppFactory/nano.superapp.deploy.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/SuperAppFactory/nano.superapp.deploy.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Monitor/ginie_monitor_ifttt.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Monitor/ginie_monitor_ifttt.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Core/gforge_warp.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Core/gforge_warp.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Core/Language/reflection_mapper.sh
@@ -983,6 +989,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/nano_wizard.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/autofix_gforge.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/autofix_gforge.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/nanotec.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/nanotec.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_implement.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_implement.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gforge_prime_autostart.sh
@@ -1029,6 +1037,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Trading/g_trade_pro.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/SuperAppFactory/nano.superapp.deploy.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/SuperAppFactory/nano.superapp.deploy.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Monitor/ginie_monitor_ifttt.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Monitor/ginie_monitor_ifttt.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/gforge_warp.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/gforge_warp.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Core/Language/reflection_mapper.sh
@@ -1495,6 +1505,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/nano_wizard.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/autofix_gforge.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/autofix_gforge.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/nanotec.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/nanotec.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_implement.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_implement.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gforge_prime_autostart.sh

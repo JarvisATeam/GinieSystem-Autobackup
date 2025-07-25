@@ -9450,3 +9450,12 @@ After doing this, you may fix the identity used for this commit with:
  38 files changed, 1071 insertions(+), 3 deletions(-)
 [1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
 {"ok":false,"error_code":401,"description":"Unauthorized"}[1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
+[1;31m🔌 [NETTFEIL][0m Ingen internett. Trigger fallback nå.
+[main 446fdfc] 🔒 Automatisk failsafe backup 2025-07-25 21:30:19
+ 43 files changed, 1061 insertions(+), 2 deletions(-)
+ create mode 100644 BackupFailsafe/Logs/ginie_ifttt_monitor_20250725.log
+ create mode 100644 BackupFailsafe/Logs/nanotec_yes.err
+ create mode 100755 BackupFailsafe/Monitor/ginie_monitor_ifttt.sh
+ create mode 100755 BackupFailsafe/Scripts/nanotec.sh
+[1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
+{"ok":false,"error_code":401,"description":"Unauthorized"}[1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
