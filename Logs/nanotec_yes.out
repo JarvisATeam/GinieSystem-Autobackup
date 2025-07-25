@@ -2,7 +2,7 @@
     END=$((SECONDS + 43200))
         ^
 SyntaxError: invalid syntax
-🔬 NanoTec overvåkning startet: Fri Jul 25 23:02:12 CEST 2025
-✅ NanoTec kjørte ferdig: Fri Jul 25 23:02:12 CEST 2025
-🔬 NanoTec overvåkning startet: Fri Jul 25 23:05:23 CEST 2025
-✅ NanoTec kjørte ferdig: Fri Jul 25 23:05:23 CEST 2025
+🔬 NanoTec overvåkning startet: Fri Jul 25 23:27:22 CEST 2025
+✅ NanoTec kjørte ferdig: Fri Jul 25 23:27:22 CEST 2025
+🔬 NanoTec overvåkning startet: Fri Jul 25 23:28:46 CEST 2025
+✅ NanoTec kjørte ferdig: Fri Jul 25 23:28:46 CEST 2025
