@@ -1,0 +1,1 @@
+ssh christerolsen@100.79.167.43 'touch ~/GinieSystem/Flags/emergency.flag'

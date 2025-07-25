@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Fri Jul 25 22:15:00 CEST 2025
+🧱 [FIREWALL] Sat Jul 26 00:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -377,6 +377,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/send_telegram.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/ginie_8h_loop.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/ginie_8h_loop.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/install_qr_watchtower.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/install_qr_watchtower.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.truth_verify.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.truth_verify.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/psilo.2.sh
@@ -441,6 +443,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/whatsapp_alert.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.shield_panel.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.shield_panel.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/nanotec_yes_to_all.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/nanotec_yes_to_all.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/extract_wallet_keys.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/extract_wallet_keys.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/ginie_fix_all.sh
@@ -957,6 +961,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/whatsapp_alert.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.shield_panel.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.shield_panel.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/nanotec_yes_to_all.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/nanotec_yes_to_all.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/extract_wallet_keys.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/extract_wallet_keys.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_fix_all.sh
@@ -1473,6 +1479,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/whatsapp_alert.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.shield_panel.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.shield_panel.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/nanotec_yes_to_all.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/nanotec_yes_to_all.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/extract_wallet_keys.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/extract_wallet_keys.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_fix_all.sh
