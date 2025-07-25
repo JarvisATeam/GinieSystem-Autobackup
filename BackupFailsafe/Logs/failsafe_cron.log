@@ -9305,3 +9305,8 @@ After doing this, you may fix the identity used for this commit with:
  34 files changed, 1065 insertions(+), 3 deletions(-)
 [1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
 {"ok":true,"result":{"message_id":1654,"from":{"id":7970813653,"is_bot":true,"first_name":"Jarvis","username":"TheAteamJarvis_bot"},"chat":{"id":5624725784,"first_name":"Christer","last_name":"Olsen","type":"private"},"date":1753403418,"text":"\ud83d\udeaa Bypass-script kj\u00f8rt \u2013 sjekket for stengte d\u00f8rer 02:30:17"}}[1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
+[1;31m🔌 [NETTFEIL][0m Ingen internett. Trigger fallback nå.
+[main 67f2b33] 🔒 Automatisk failsafe backup 2025-07-25 03:00:27
+ 34 files changed, 1069 insertions(+), 3 deletions(-)
+[1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
+{"ok":true,"result":{"message_id":1656,"from":{"id":7970813653,"is_bot":true,"first_name":"Jarvis","username":"TheAteamJarvis_bot"},"chat":{"id":5624725784,"first_name":"Christer","last_name":"Olsen","type":"private"},"date":1753405231,"text":"\ud83d\udeaa Bypass-script kj\u00f8rt \u2013 sjekket for stengte d\u00f8rer 03:00:30"}}[1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
