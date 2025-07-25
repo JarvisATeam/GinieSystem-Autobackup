@@ -9435,3 +9435,8 @@ After doing this, you may fix the identity used for this commit with:
  34 files changed, 916 insertions(+), 2 deletions(-)
 [1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
 {"ok":false,"error_code":401,"description":"Unauthorized"}[1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
+[1;31m🔌 [NETTFEIL][0m Ingen internett. Trigger fallback nå.
+[main 69aa6bd] 🔒 Automatisk failsafe backup 2025-07-25 20:00:18
+ 35 files changed, 918 insertions(+), 2 deletions(-)
+[1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
+{"ok":false,"error_code":401,"description":"Unauthorized"}[1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
