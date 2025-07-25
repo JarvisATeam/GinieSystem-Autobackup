@@ -578,3 +578,4 @@
 {"ok":false,"error_code":401,"description":"Unauthorized"}2025-07-25 22:00:01 – ✅ GinieSystem kjører – 2025-07-25 22:00:01
 {"ok":false,"error_code":401,"description":"Unauthorized"}2025-07-25 22:30:02 – ✅ GinieSystem kjører – 2025-07-25 22:30:00
 {"ok":false,"error_code":401,"description":"Unauthorized"}2025-07-25 23:00:01 – ✅ GinieSystem kjører – 2025-07-25 23:00:01
+{"ok":false,"error_code":401,"description":"Unauthorized"}
