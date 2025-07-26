@@ -1,50 +1,46 @@
-44 4 * * * bash ~/GinieSystem/Scripts/gforge_prime_backup.sh >> ~/GinieSystem/Logs/gforge_prime.log 2>&1
-0 5 * * * bash /Users/christerolsen/GinieSystem/Scripts/sync_learning_to_icloud.sh
-44 4 * * * bash /Users/christerolsen/GinieSystem/Scripts/sync_learning_to_icloud.sh
-0 5 * * * bash $HOME/GinieSystem/Scripts/ginie_fix_all.sh
-0 6 * * * bash ~/GinieSystem/Earn/earn_mission.sh
-0 18 * * * bash ~/GinieSystem/Earn/stripe_push.sh
-*/20 * * * * bash ~/GinieSystem/Earn/fallback_watch.sh
-0 7 * * * bash $HOME/GinieSystem/Earn/earn_mission.sh >> $HOME/GinieSystem/Logs/earn_daily.log 2>&1
-0 5 * * * bash ~/GinieSystem/Earn/earn_mission.sh >> ~/GinieSystem/logs/earn_daily.log 2>&1
-5 6 * * * bash ~/GinieSystem/Scripts/ginie_git_push.sh
-5 12 * * * bash ~/GinieSystem/Scripts/ginie_git_push.sh
-5 20 * * * bash ~/GinieSystem/Scripts/ginie_git_push.sh
-0 5 * * * bash ~/GinieSystem/Earn/earn_mission.sh >> ~/GinieSystem/Logs/earn_daily.log 2>&1
-*/30 * * * * bash /gforge_warp.sh >> /gforge_warp.log 2>&1
-0 6 * * * bash /earn_mission.sh >> /earn_daily.log 2>&1
-*/30 * * * * bash /Core/gforge_warp.sh >> /Logs/gforge_warp.log 2>&1
-0 6 * * * bash /Earn/earn_mission.sh >> /Logs/earn_daily.log 2>&1
-15 */2 * * * bash ~/GinieSystem/Scripts/gforce_firewall.sh >> ~/GinieSystem/Logs/firewall_cron.log 2>&1
-*/30 * * * * bash ~/GinieSystem/Core/gforge_warp.sh >> ~/GinieSystem/Logs/gforge_warp.log 2>&1
-15 * * * * bash ~/GinieSystem/Core/ginie_keyload.sh >> ~/GinieSystem/Logs/vault_sync.log 2>&1
-0 */6 * * * bash ~/GinieSystem/Core/gforge_warp.sh
-*/30 * * * * bash ~/GinieSystem/Scripts/sync_learning_to_icloud.sh
-0 6 * * * bash ~/GinieSystem/Scripts/g.version_save.sh >> ~/GinieSystem/Logs/version_daily.log 2>&1
-@reboot bash ~/GinieSystem/Scripts/g.superloop.sh
-0 6 * * * bash ~/GinieSystem/Scripts/vault_repair.sh
 */10 * * * * bash ~/GinieSystem/Agents/g.mailreader/g.mailreader.sh
-*/30 * * * * bash ~/GinieSystem/Scripts/git_autosync.sh
-0 6 * * * bash $HOME/GinieSystem/Vault/vault_notify_push.sh >> $HOME/GinieSystem/logs/vault_notify_cron.log 2>&1
-*/10 * * * * bash ~/GinieSystem/Scripts/g.autosave.sh
-*/30 * * * * bash ~/GinieSystem/ginie_failsafe.sh >> ~/GinieSystem/Logs/failsafe_cron.log 2>&1
-10 * * * * bash ~/GinieSystem/Scripts/ginie_bypass.sh >> ~/GinieSystem/Logs/bypass_cron.log 2>&1
-0 */4 * * * bash ~/GinieSystem/Scripts/ginie_zip_to_icloud.sh >> ~/GinieSystem/Logs/icloud_zip.log 2>&1
-33 3 * * * bash /Users/christerolsen/GinieSystem/Scripts/crypto_discover.sh
-*/10 * * * * bash ~/GinieSystem/Scripts/ginie_mailproof.sh || echo "Feil i mailproof" | mail -s "Feil i mailproof" you@example.com
 */10 * * * * bash ~/GinieSystem/Agents/g.mailreader/g.mailreader.sh || echo "Feil i mailreader" | mail -s "Feil i mailreader" you@example.com
+*/10 * * * * bash ~/GinieSystem/Scripts/g.autosave.sh
+*/10 * * * * bash ~/GinieSystem/Scripts/ginie_mailproof.sh || echo "Feil i mailproof" | mail -s "Feil i mailproof" you@example.com
+*/15 * * * * bash ~/GinieSystem/Scripts/g.git_autopush.sh
+*/20 * * * * bash ~/GinieSystem/Earn/fallback_watch.sh
+*/30 * * * * bash /Core/gforge_warp.sh >> /Logs/gforge_warp.log 2>&1
+*/30 * * * * bash /gforge_warp.sh >> /gforge_warp.log 2>&1
+*/30 * * * * bash ~/GinieSystem/Core/gforge_warp.sh >> ~/GinieSystem/Logs/gforge_warp.log 2>&1
+*/30 * * * * bash ~/GinieSystem/Scripts/git_autosync.sh
+*/30 * * * * bash ~/GinieSystem/Scripts/ping_watchdog.sh
+*/30 * * * * bash ~/GinieSystem/Scripts/sync_learning_to_icloud.sh
+*/30 * * * * bash ~/GinieSystem/ginie_failsafe.sh >> ~/GinieSystem/Logs/failsafe_cron.log 2>&1
+0 * * * * bash ~/GinieSystem/Monitor/ginie_monitor_ifttt.sh
+0 */4 * * * bash ~/GinieSystem/Scripts/ginie_zip_to_icloud.sh >> ~/GinieSystem/Logs/icloud_zip.log 2>&1
+0 */6 * * * bash ~/GinieSystem/Core/gforge_warp.sh
+0 18 * * * bash ~/GinieSystem/Earn/stripe_push.sh
+0 5 * * * bash $HOME/GinieSystem/Scripts/ginie_fix_all.sh
+0 5 * * * bash /Users/christerolsen/GinieSystem/Scripts/sync_learning_to_icloud.sh
+0 5 * * * bash ~/GinieSystem/Earn/earn_mission.sh >> ~/GinieSystem/Logs/earn_daily.log 2>&1
+0 5 * * * bash ~/GinieSystem/Earn/earn_mission.sh >> ~/GinieSystem/logs/earn_daily.log 2>&1
+0 5 * * * bash ~/GinieSystem/Scripts/ginie_bootstrap.sh
+0 6 * * * bash $HOME/GinieSystem/Vault/vault_notify_push.sh >> $HOME/GinieSystem/logs/vault_notify_cron.log 2>&1
+0 6 * * * bash /Earn/earn_mission.sh >> /Logs/earn_daily.log 2>&1
+0 6 * * * bash /earn_mission.sh >> /earn_daily.log 2>&1
+0 6 * * * bash ~/GinieSystem/Earn/earn_mission.sh
+0 6 * * * bash ~/GinieSystem/Scripts/g.version_save.sh >> ~/GinieSystem/Logs/version_daily.log 2>&1
+0 6 * * * bash ~/GinieSystem/Scripts/vault_repair.sh
+0 7 * * * bash $HOME/GinieSystem/Earn/earn_mission.sh >> $HOME/GinieSystem/Logs/earn_daily.log 2>&1
+0 7 * * * bash ~/GINIE_VAULTSYNC_SELFUPDATER.sh
+10 * * * * bash ~/GinieSystem/Scripts/ginie_bypass.sh >> ~/GinieSystem/Logs/bypass_cron.log 2>&1
+15 * * * * bash ~/GinieSystem/Core/ginie_keyload.sh >> ~/GinieSystem/Logs/vault_sync.log 2>&1
+15 */2 * * * bash ~/GinieSystem/Scripts/gforce_firewall.sh >> ~/GinieSystem/Logs/firewall_cron.log 2>&1
 22 4 * * * bash ~/GinieSystem/Scripts/g.cron_monitor.sh
 30 3 * * * bash ~/GinieSystem/Dreamscape_Autodeploy.sh
+33 3 * * * bash /Users/christerolsen/GinieSystem/Scripts/crypto_discover.sh
 35 3 * * * bash $HOME/GinieSystem/Scripts/deploy_trainapp_on_wakeup.sh
-*/15 * * * * bash ~/GinieSystem/Scripts/g.git_autopush.sh
+44 4 * * * bash /Users/christerolsen/GinieSystem/Scripts/sync_learning_to_icloud.sh
+44 4 * * * bash ~/GinieSystem/Scripts/gforge_prime_backup.sh >> ~/GinieSystem/Logs/gforge_prime.log 2>&1
+5 12 * * * bash ~/GinieSystem/Scripts/ginie_git_push.sh
+5 20 * * * bash ~/GinieSystem/Scripts/ginie_git_push.sh
 5 3 * * * bash ~/GinieSystem/Scripts/g.recovery_loop.sh
-5 3 * * * bash ~/GinieSystem/Scripts/g.recovery_loop.sh
-*/15 * * * * bash ~/GinieSystem/Scripts/g.git_autopush.sh
-5 3 * * * bash ~/GinieSystem/Scripts/g.recovery_loop.sh
-*/15 * * * * bash ~/GinieSystem/Scripts/g.git_autopush.sh
+5 6 * * * bash ~/GinieSystem/Scripts/ginie_git_push.sh
+@reboot bash ~/GinieSystem/Scripts/g.superloop.sh
 */5 * * * * bash ~/GinieSystem/Scripts/lock_guard.sh >> ~/GinieSystem/Vault/Logs/lock_guard.log 2>&1
-0 5 * * * bash ~/GinieSystem/Scripts/ginie_bootstrap.sh
-0 6 * * * bash ~/GinieSystem/Earn/earn_mission.sh
-*/30 * * * * bash ~/GinieSystem/Scripts/ping_watchdog.sh
-0 7 * * * bash ~/GINIE_VAULTSYNC_SELFUPDATER.sh
 0 7 * * * bash ~/GINIE_VAULTSYNC_SELFUPDATER.sh
