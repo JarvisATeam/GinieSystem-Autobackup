@@ -7163,3 +7163,47 @@ rsync(19801): error: io_read_flush
 rsync(19801): error: rsync_sender
 rsync(19801): warning: child 19807 exited with status 1
 [Sat Jul 26 04:30:01 CEST 2025] Sync fullført.
+[Sat Jul 26 04:44:00 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+rsync(26320): error: /Users/christerolsen/Library/Mobile Documents/com~apple~CloudDocs/GinieVaultBackup/Learning/: open: Operation not permitted
+rsync(26320): error: rsync_receiver
+rsync(26317): error: unexpected end of file
+rsync(26317): error: io_read_nonblocking
+rsync(26317): error: io_read_blocking
+rsync(26317): error: io_read_flush
+rsync(26317): error: rsync_sender
+rsync(26317): warning: child 26320 exited with status 1
+[Sat Jul 26 04:44:00 CEST 2025] Sync fullført.
+[Sat Jul 26 05:00:00 CEST 2025] Starter iCloud sync...
+[Sat Jul 26 05:00:00 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+rsync(31889): error: /Users/christerolsen/Library/Mobile Documents/com~apple~CloudDocs/GinieVaultBackup/Learning/: open: Operation not permitted
+rsync(31889): error: rsync_receiver
+Transfer starting: 1 files
+rsync(31887): error: /Users/christerolsen/Library/Mobile Documents/com~apple~CloudDocs/GinieVaultBackup/Learning/: open: Operation not permitted
+rsync(31887): error: rsync_receiver
+rsync(31876): error: unexpected end of file
+rsync(31876): error: io_read_nonblocking
+rsync(31876): error: io_read_blocking
+rsync(31876): error: io_read_flush
+rsync(31876): error: rsync_sender
+rsync(31876): warning: child 31889 exited with status 1
+rsync(31879): error: unexpected end of file
+rsync(31879): error: io_read_nonblocking
+rsync(31879): error: io_read_blocking
+rsync(31879): error: io_read_flush
+rsync(31879): error: rsync_sender
+rsync(31879): warning: child 31887 exited with status 1
+[Sat Jul 26 05:00:00 CEST 2025] Sync fullført.
+[Sat Jul 26 05:00:00 CEST 2025] Sync fullført.
+[Sat Jul 26 05:00:00 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+rsync(31959): error: /Users/christerolsen/Library/Mobile Documents/com~apple~CloudDocs/GinieVaultBackup/Learning/: open: Operation not permitted
+rsync(31959): error: rsync_receiver
+rsync(31955): error: unexpected end of file
+rsync(31955): error: io_read_nonblocking
+rsync(31955): error: io_read_blocking
+rsync(31955): error: io_read_flush
+rsync(31955): error: rsync_sender
+rsync(31955): warning: child 31959 exited with status 1
+[Sat Jul 26 05:00:00 CEST 2025] Sync fullført.
