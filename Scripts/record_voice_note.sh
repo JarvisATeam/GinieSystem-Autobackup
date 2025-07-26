@@ -1,4 +1,4 @@
-#!/bin/bash DATE=$(date +%F) TIME=$(date 
+#!/bin/bash
 +%H-%M) FILENAME="voice_note_${TIME}.wav" 
 MEDIA_DIR="$HOME/GinieSystem/Health/Media/$DATE" 
 ICLOUD_DIR="$HOME/Library/Mobile 

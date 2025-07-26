@@ -1,4 +1,4 @@
-#!/bin/bash mkdir -p 
+#!/bin/bash
 ~/GinieSystem/Vault/{greetings,medals} find 
 ~/Downloads -type f \( -iname "*ginie*.png" 
 -o -iname "*medalje*.png" -o -iname 

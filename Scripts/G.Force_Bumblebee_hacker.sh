@@ -1,4 +1,4 @@
-#!/bin/bash # G.Forces.Bumblebee.hacker 
+#!/bin/bash
 stealth & speed logprobe NOW=$(date 
 +"%Y-%m-%dT%H:%M:%S") 
 LOG="$HOME/GinieSystem/Logs/bumblebee.log" 

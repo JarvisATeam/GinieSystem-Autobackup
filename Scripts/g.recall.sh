@@ -1,4 +1,4 @@
-#!/bin/bash 
+#!/bin/bash
 PROFILE="$HOME/GinieSystem/Health/Profiles/training_ai_profile.json" 
 if [ ! -f "$PROFILE" ]; then
   echo " Fant ikke AI-profilen: $PROFILE" 
