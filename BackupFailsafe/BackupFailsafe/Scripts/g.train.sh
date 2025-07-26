@@ -1,4 +1,4 @@
-#!/bin/bash DATE=$(date +%F) 
+#!/bin/bash
 LOG="$HOME/GinieSystem/Health/Logs/training_$DATE.md" 
 ICLOUD="$HOME/Library/Mobile 
 Documents/com~apple~CloudDocs/GinieSystem/Health/Logs/training_$DATE.md" 

@@ -1,4 +1,4 @@
-#!/bin/bash echo " [psilo.3] Starter DYPERE 
+#!/bin/bash
 nevrosynkronisert bevissthet..." 
 LOG=~/GinieSystem/Logs/psilo_trip_$(date 
 +%s).deep.log 

@@ -7500,3 +7500,14 @@ rsync(14676): error: io_read_flush
 rsync(14676): error: rsync_sender
 rsync(14676): warning: child 14679 exited with status 1
 [Sat Jul 26 17:30:00 CEST 2025] Sync fullført.
+[Sat Jul 26 18:00:00 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+rsync(25334): error: /Users/christerolsen/Library/Mobile Documents/com~apple~CloudDocs/GinieVaultBackup/Learning/: open: Operation not permitted
+rsync(25334): error: rsync_receiver
+rsync(25331): error: unexpected end of file
+rsync(25331): error: io_read_nonblocking
+rsync(25331): error: io_read_blocking
+rsync(25331): error: io_read_flush
+rsync(25331): error: rsync_sender
+rsync(25331): warning: child 25334 exited with status 1
+[Sat Jul 26 18:00:00 CEST 2025] Sync fullført.
