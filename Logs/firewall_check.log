@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Sat Jul 26 00:15:00 CEST 2025
+🧱 [FIREWALL] Sat Jul 26 02:15:01 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -387,6 +387,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/vault_backup.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/ginietest_autorun.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/ginietest_autorun.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/panic_integration.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/panic_integration.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/psilo_2.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/psilo_2.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/ginie_selfcheck.sh
@@ -897,6 +899,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/send_telegram.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_8h_loop.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_8h_loop.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/install_qr_watchtower.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/install_qr_watchtower.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.truth_verify.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.truth_verify.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/psilo.2.sh
@@ -905,6 +909,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/vault_backup.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginietest_autorun.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginietest_autorun.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/panic_integration.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/panic_integration.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/psilo_2.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/psilo_2.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_selfcheck.sh
@@ -1415,6 +1421,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/send_telegram.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_8h_loop.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_8h_loop.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/install_qr_watchtower.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/install_qr_watchtower.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.truth_verify.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.truth_verify.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/psilo.2.sh
@@ -1423,6 +1431,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/vault_backup.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginietest_autorun.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginietest_autorun.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/panic_integration.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/panic_integration.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/psilo_2.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/psilo_2.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_selfcheck.sh
