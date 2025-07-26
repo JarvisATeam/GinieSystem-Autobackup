@@ -9778,4 +9778,4 @@ After doing this, you may fix the identity used for this commit with:
  39 files changed, 936 insertions(+), 3 deletions(-)
  create mode 100644 BackupFailsafe/Logs/ginie_ifttt_monitor_20250727.log
 [1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
-{"ok":false,"error_code":401,"description":"Unauthorized"}
+{"ok":false,"error_code":401,"description":"Unauthorized"}[1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
