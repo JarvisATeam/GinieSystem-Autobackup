@@ -1,9 +1,5 @@
-🧠 Overvåking startet Sat Jul 26 07:28:48 CEST 2025
-✅ Prosess: vaultsync.sh OK
-✅ Prosess: vaultsync.sh OK
-✅ Prosess: earn_mission.sh OK
-✅ Prosess: earn_mission.sh OK
+🧠 Overvåking startet Sat Jul 26 08:00:00 CEST 2025
+❌ Prosess: vaultsync.sh mangler!
+❌ Prosess: earn_mission.sh mangler!
 ❌ Prosess: gforge_prime_autostart.sh mangler!
-❌ Prosess: gforge_prime_autostart.sh mangler!
-❌ Cron for earn_daily ikke aktiv i dag
 ❌ Cron for earn_daily ikke aktiv i dag
