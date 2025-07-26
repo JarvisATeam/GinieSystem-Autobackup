@@ -9702,3 +9702,4 @@ After doing this, you may fix the identity used for this commit with:
  create mode 100755 BackupFailsafe/Scripts/nanotech_main_autofix.sh
  create mode 100644 BackupFailsafe/vault.conf
 [1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
+{"ok":false,"error_code":401,"description":"Unauthorized"}
