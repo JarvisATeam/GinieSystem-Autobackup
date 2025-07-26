@@ -1,4 +1,4 @@
-#!/bin/bash 
+#!/bin/bash
 VAULT="$HOME/GinieSystem/Vault/Keys" echo " 
 Validerer Vault-nkler..." for k in 
 stripe_token.key notion_token.key 

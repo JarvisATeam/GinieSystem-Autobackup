@@ -1,4 +1,4 @@
-#!/bin/bash echo " Prver gjenopprette Vault 
+#!/bin/bash
 fra iCloud..." 
 ICLOUD_BACKUP_DIR="$HOME/Library/Mobile 
 Documents/com~apple~CloudDocs/GinieBackups" 

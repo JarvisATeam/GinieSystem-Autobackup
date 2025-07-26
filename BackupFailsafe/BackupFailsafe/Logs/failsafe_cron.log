@@ -9681,3 +9681,8 @@ After doing this, you may fix the identity used for this commit with:
  create mode 100644 BackupFailsafe/BackupFailsafe/Sahara/README.md
 [1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
 {"ok":false,"error_code":401,"description":"Unauthorized"}[1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
+[1;31m🔌 [NETTFEIL][0m Ingen internett. Trigger fallback nå.
+[main bd4ae2d9] 🔒 Automatisk failsafe backup 2025-07-26 17:00:18
+ 42 files changed, 1087 insertions(+), 4 deletions(-)
+[1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
+{"ok":false,"error_code":401,"description":"Unauthorized"}[1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
