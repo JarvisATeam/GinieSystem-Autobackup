@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Sat Jul 26 18:15:00 CEST 2025
+🧱 [FIREWALL] Sat Jul 26 20:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -358,7 +358,7 @@
 🧪 /Users/christerolsen/GinieSystem/Scripts/ginie_versioner.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/ginie_versioner.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/ginie_nanotech_autosetup.sh
-❌ FEIL i: /Users/christerolsen/GinieSystem/Scripts/ginie_nanotech_autosetup.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/ginie_nanotech_autosetup.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/loop_trip.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/loop_trip.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.cron_monitor.sh
@@ -527,6 +527,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/gfix_backup.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/g.recovery_loop.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.recovery_loop.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/g.vault_status.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/g.vault_status.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/earn_mission.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/earn_mission.sh
 🧪 /Users/christerolsen/GinieSystem/Verifier/testloop.sh
@@ -888,7 +890,7 @@
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_versioner.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_versioner.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_nanotech_autosetup.sh
-❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_nanotech_autosetup.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginie_nanotech_autosetup.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/loop_trip.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/loop_trip.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.cron_monitor.sh
@@ -1057,6 +1059,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/gfix_backup.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.recovery_loop.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.recovery_loop.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.vault_status.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/g.vault_status.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/earn_mission.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/earn_mission.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Verifier/testloop.sh
@@ -1417,6 +1421,8 @@
 ❌ FEIL i: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/G.Force_Bumblebee_hacker.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_versioner.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_versioner.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_nanotech_autosetup.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_nanotech_autosetup.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/loop_trip.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/loop_trip.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.cron_monitor.sh
@@ -1563,12 +1569,16 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/launch_nanotec.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/lock_guard.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/lock_guard.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_mailproof.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_mailproof.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.train_ai.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.train_ai.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_zip_to_icloud.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginie_zip_to_icloud.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/logg_postworkout.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/logg_postworkout.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/nanotech_main_autofix.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/nanotech_main_autofix.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.talk_loop.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.talk_loop.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/start_symbiose_cron.sh
@@ -1581,6 +1591,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/gfix_backup.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.recovery_loop.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.recovery_loop.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.vault_status.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/g.vault_status.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/earn_mission.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/earn_mission.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Verifier/testloop.sh

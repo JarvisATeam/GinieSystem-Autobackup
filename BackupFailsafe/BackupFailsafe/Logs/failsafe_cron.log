@@ -9721,3 +9721,13 @@ After doing this, you may fix the identity used for this commit with:
  create mode 100644 BackupFailsafe/Vault/FoundKeys/github_pat.key.gpg
 [1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
 {"ok":false,"error_code":401,"description":"Unauthorized"}[1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
+[1;31m🔌 [NETTFEIL][0m Ingen internett. Trigger fallback nå.
+[main 5ae62f3e] 🔒 Automatisk failsafe backup 2025-07-26 19:30:17
+ 48 files changed, 1051 insertions(+), 34 deletions(-)
+ create mode 100755 BackupFailsafe/BackupFailsafe/Scripts/g.vault_status.sh
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/FoundKeys/github_pat.key
+ create mode 100644 BackupFailsafe/BackupFailsafe/Vault/FoundKeys/github_pat.key.gpg
+ create mode 100644 BackupFailsafe/Vault/FoundKeys/Old/github_pat.key.gpg
+ create mode 100644 BackupFailsafe/Vault/FoundKeys/github_pat.key.gpg.Giniesystem
+[1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
+{"ok":false,"error_code":401,"description":"Unauthorized"}[1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
