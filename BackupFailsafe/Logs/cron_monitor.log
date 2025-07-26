@@ -42,3 +42,17 @@ Sjekk rot i cron, potensiell duplikat eller utilsiktet endring.
 < 0 7 * * * bash ~/GINIE_VAULTSYNC_SELFUPDATER.sh
 
 Sjekk rot i cron, potensiell duplikat eller utilsiktet endring.
+⚠️ Endring i crontab oppdaget på 2025-07-26 04:22:00:
+
+5a6,7
+> */15 * * * * bash ~/GinieSystem/Scripts/g.git_autopush.sh
+> */15 * * * * bash ~/GinieSystem/Scripts/g.git_autopush.sh
+15d16
+< 0 * * * * bash ~/GinieSystem/Monitor/ginie_monitor_ifttt.sh
+27a29
+> 0 6 * * * bash ~/GinieSystem/Earn/earn_mission.sh
+43a46,47
+> 5 3 * * * bash ~/GinieSystem/Scripts/g.recovery_loop.sh
+> 5 3 * * * bash ~/GinieSystem/Scripts/g.recovery_loop.sh
+
+Sjekk rot i cron, potensiell duplikat eller utilsiktet endring.
