@@ -9571,4 +9571,4 @@ After doing this, you may fix the identity used for this commit with:
 [main e73c6cd6] 🔒 Automatisk failsafe backup 2025-07-26 06:00:21
  48 files changed, 1016 insertions(+), 13 deletions(-)
 [1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
-{"ok":false,"error_code":401,"description":"Unauthorized"}
+{"ok":false,"error_code":401,"description":"Unauthorized"}[1;33m🛡️ [FAILSAFE-STARTER][0m Initialiserer failsafe...
