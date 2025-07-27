@@ -1,4 +1,4 @@
-🧱 [FIREWALL] Sun Jul 27 04:15:00 CEST 2025
+🧱 [FIREWALL] Sun Jul 27 06:15:00 CEST 2025
 ✅ /Users/christerolsen/.stripe_token finnes
 ✅ /Users/christerolsen/.telegram_token finnes
 ✅ /Users/christerolsen/.mailpass.gpg finnes
@@ -389,6 +389,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/psilo.2.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/vault_backup.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/vault_backup.sh
+🧪 /Users/christerolsen/GinieSystem/Scripts/nanotec_selfdeploy_stress.sh
+✅ OK: /Users/christerolsen/GinieSystem/Scripts/nanotec_selfdeploy_stress.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/ginietest_autorun.sh
 ✅ OK: /Users/christerolsen/GinieSystem/Scripts/ginietest_autorun.sh
 🧪 /Users/christerolsen/GinieSystem/Scripts/panic_integration.sh
@@ -921,6 +923,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/psilo.2.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/vault_backup.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/vault_backup.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/nanotec_selfdeploy_stress.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/nanotec_selfdeploy_stress.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginietest_autorun.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/ginietest_autorun.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/Scripts/panic_integration.sh
@@ -1453,6 +1457,8 @@
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/psilo.2.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/vault_backup.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/vault_backup.sh
+🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/nanotec_selfdeploy_stress.sh
+✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/nanotec_selfdeploy_stress.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginietest_autorun.sh
 ✅ OK: /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/ginietest_autorun.sh
 🧪 /Users/christerolsen/GinieSystem/BackupFailsafe/BackupFailsafe/Scripts/panic_integration.sh
