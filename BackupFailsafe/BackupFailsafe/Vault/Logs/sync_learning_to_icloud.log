@@ -7760,3 +7760,47 @@ rsync(60277): error: io_read_flush
 rsync(60277): error: rsync_sender
 rsync(60277): warning: child 60280 exited with status 1
 [Sun Jul 27 04:30:00 CEST 2025] Sync fullført.
+[Sun Jul 27 04:44:00 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+rsync(66314): error: /Users/christerolsen/Library/Mobile Documents/com~apple~CloudDocs/GinieVaultBackup/Learning/: open: Operation not permitted
+rsync(66314): error: rsync_receiver
+rsync(66312): error: unexpected end of file
+rsync(66312): error: io_read_nonblocking
+rsync(66312): error: io_read_blocking
+rsync(66312): error: io_read_flush
+rsync(66312): error: rsync_sender
+rsync(66312): warning: child 66314 exited with status 1
+[Sun Jul 27 04:44:00 CEST 2025] Sync fullført.
+[Sun Jul 27 05:00:00 CEST 2025] Starter iCloud sync...
+[Sun Jul 27 05:00:00 CEST 2025] Starter iCloud sync...
+[Sun Jul 27 05:00:00 CEST 2025] Starter iCloud sync...
+Transfer starting: 1 files
+rsync(73193): error: /Users/christerolsen/Library/Mobile Documents/com~apple~CloudDocs/GinieVaultBackup/Learning/: open: Operation not permitted
+rsync(73193): error: rsync_receiver
+rsync(73174): error: unexpected end of file
+rsync(73174): error: io_read_nonblocking
+rsync(73174): error: io_read_blocking
+rsync(73174): error: io_read_flush
+rsync(73174): error: rsync_sender
+rsync(73174): warning: child 73193 exited with status 1
+[Sun Jul 27 05:00:01 CEST 2025] Sync fullført.
+Transfer starting: 1 files
+rsync(73192): error: /Users/christerolsen/Library/Mobile Documents/com~apple~CloudDocs/GinieVaultBackup/Learning/: open: Operation not permitted
+rsync(73192): error: rsync_receiver
+rsync(73177): error: unexpected end of file
+rsync(73177): error: io_read_nonblocking
+rsync(73177): error: io_read_blocking
+rsync(73177): error: io_read_flush
+rsync(73177): error: rsync_sender
+rsync(73177): warning: child 73192 exited with status 1
+Transfer starting: 1 files
+rsync(73233): error: /Users/christerolsen/Library/Mobile Documents/com~apple~CloudDocs/GinieVaultBackup/Learning/: open: Operation not permitted
+rsync(73233): error: rsync_receiver
+rsync(73228): error: unexpected end of file
+rsync(73228): error: io_read_nonblocking
+rsync(73228): error: io_read_blocking
+rsync(73228): error: io_read_flush
+rsync(73228): error: rsync_sender
+rsync(73228): warning: child 73233 exited with status 1
+[Sun Jul 27 05:00:01 CEST 2025] Sync fullført.
+[Sun Jul 27 05:00:01 CEST 2025] Sync fullført.
