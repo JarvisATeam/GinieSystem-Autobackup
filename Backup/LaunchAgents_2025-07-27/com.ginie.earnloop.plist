@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>com.ginie.earnloop</string>
+  <key>ProgramArguments</key><array>
+    <string>/bin/bash</string><string>/Users/christerolsen/Desktop/c.ginie/earn_loop.command</string>
+  </array>
+  <key>StartInterval</key><integer>3600</integer>
+</dict>
+</plist>

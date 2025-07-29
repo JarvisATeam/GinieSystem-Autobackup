@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>com.ginie.dashboardupdate</string>
+  <key>ProgramArguments</key><array>
+    <string>/bin/bash</string>
+    <string>/Users/christerolsen/GinieSystem/Scripts/update_nova_dashboard.sh</string>
+  </array>
+  <key>StartInterval</key><integer>21600</integer>
+</dict>
+</plist>

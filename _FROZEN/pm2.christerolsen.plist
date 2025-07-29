@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+	  <key>Label</key>
+	  <string>com.PM2</string>
+	  <key>UserName</key>
+	  <string>christerolsen</string>
+    <key>KeepAlive</key>
+    <true/>
+	  <key>ProgramArguments</key>
+	  <array>
+		  <string>/bin/sh</string>
+		  <string>-c</string>
+		  <string>/Users/christerolsen/.nvm/versions/node/v18.20.6/lib/node_modules/pm2/bin/pm2 resurrect</string>
+	  </array>
+	  <key>RunAtLoad</key>
+	  <true/>
+	  <key>OnDemand</key>
+	  <false/>
+	  <key>LaunchOnlyOnce</key>
+	  <true/>
+	  <key>EnvironmentVariables</key>
+    <dict>
+      <key>PATH</key>
+      <string>/Applications/Docker.app/Contents/Resources/bin:/Users/christerolsen/.nvm/versions/node/v18.20.6/bin:/Applications/Docker.app/Contents/Resources/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Users/christerolsen/.nvm/versions/node/v18.20.6/bin</string>
+      <key>PM2_HOME</key>
+      <string>/Users/christerolsen/.pm2</string>
+    </dict>
+	  <key>StandardErrorPath</key>
+	  <string>/tmp/com.PM2.err</string>
+	  <key>StandardOutPath</key>
+	  <string>/tmp/com.PM2.out</string>
+  </dict>
+</plist>

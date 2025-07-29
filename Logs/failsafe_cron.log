@@ -9857,3 +9857,4 @@ After doing this, you may fix the identity used for this commit with:
 [main f48a7afe] 🔒 Automatisk failsafe backup 2025-07-27 07:00:15
  60 files changed, 4874 insertions(+), 5 deletions(-)
 [1;32m✅ [DONE][0m Failsafe kjørt og alt er lagret
+{"ok":false,"error_code":401,"description":"Unauthorized"}

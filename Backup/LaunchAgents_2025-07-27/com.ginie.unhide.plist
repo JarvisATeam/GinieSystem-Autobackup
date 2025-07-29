@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>com.ginie.unhide</string>
+  <key>ProgramArguments</key><array>
+    <string>/bin/bash</string><string>/Users/christerolsen/Desktop/c.ginie/unhide_all.command</string>
+  </array>
+  <key>StartCalendarInterval</key><dict><key>Hour</key><integer>19</integer><key>Minute</key><integer>5</integer></dict>
+</dict>
+</plist>
