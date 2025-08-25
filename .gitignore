@@ -1,0 +1,20 @@
+
+# --- secrets hygiene ---
+*.key
+*.pem
+*.p12
+*.pfx
+*.der
+*.jks
+*.asc
+*.gpg
+*.kdbx
+*.enc
+*.zip.enc
+*.token
+*.secret
+*.env
+.env.*
+Vault/
+vault/
+.secrets.baseline
