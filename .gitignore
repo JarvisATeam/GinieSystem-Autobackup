@@ -1,0 +1,14 @@
+# Python virtual environments
+.venv/
+
+# Node modules
+node_modules/
+
+# Build artifacts
+courses/ail-app/dist/
+
+# Logs and reports generated at runtime
+policies/reports/*.json
+
+# macOS metadata
+.DS_Store
