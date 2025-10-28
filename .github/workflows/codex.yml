@@ -1,0 +1,43 @@
+name: Codex Self-Patch
+on:
+  push:
+  pull_request:
+  workflow_dispatch: {}
+
+jobs:
+  codex:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+      - name: Install codespell
+        run: |
+          python -m pip install codespell
+      - name: Run Codex check
+        id: codex
+        run: |
+          python scripts/ail_ops.py bootstrap
+          python scripts/ail_codex_check.py
+          echo "changed=$(git status --porcelain | wc -l)" >> "$GITHUB_OUTPUT"
+      - name: Install Node dependencies
+        if: steps.codex.outputs.changed != '0'
+        working-directory: courses/ail-app
+        run: |
+          npm install --no-audit --no-fund
+          npm run build
+      - name: Commit patches
+        if: steps.codex.outputs.changed != '0'
+        run: |
+          git config user.name "ail-codex-bot"
+          git config user.email "ail-codex-bot@users.noreply.github.com"
+          git add -A
+          git commit -m "codex: auto-update glossary"
+          git push || true
