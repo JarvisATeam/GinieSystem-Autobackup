@@ -1,0 +1,47 @@
+{
+  "2025": {
+    "year": "Oppsett av GINIEKONTO og earn-manager",
+    "completed": false,
+    "quarters": {
+      "Q1": {
+        "goal": "Ferdigstille OCR- og refusjonspipeline",
+        "completed": false,
+        "months": {
+          "January": {
+            "tasks": [
+              {
+                "title": "Test dummydata i OCR",
+                "done": false
+              },
+              {
+                "title": "Skrive dokumentasjon til Notion",
+                "done": false
+              }
+            ]
+          },
+          "February": {
+            "tasks": []
+          }
+        }
+      },
+      "Q3": {
+        "goal": "Automatisering av planner",
+        "completed": false,
+        "months": {
+          "August": {
+            "tasks": [
+              {
+                "title": "Automatiser planner_master",
+                "done": true
+              },
+              {
+                "title": "Demonstrere ChatGPT-integrasjon",
+                "done": false
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
