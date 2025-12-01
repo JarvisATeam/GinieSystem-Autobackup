@@ -1,0 +1,30 @@
+id: SKILL:G_MOTOR:ROI_TUNING:001
+module: g_motor
+topic: roi_optimization
+confidence: 0.87
+
+rule:
+  trigger: "When job proposal has ROI < threshold AND risk_score > 0.6"
+  action: |
+    1. Increase required ROI by 15%
+    2. Flag for manual review if strategic_importance > 0.8
+    3. Log decision to L1_RAW with full context
+  expected_outcome: "Better hit rate on profitable jobs, reduced wasted compute"
+
+anti_rule:
+  never_when:
+    - "Job is marked as 'strategic_experiment'"
+    - "Job comes from trusted_partner list"
+  reason: "Strategic jobs may have indirect ROI not captured in immediate metrics"
+
+evidence:
+  episode_count: 23
+  success_rate: 0.87
+  key_episodes:
+    - L2_SEMANTIC:cluster_42
+    - L2_SEMANTIC:cluster_58
+
+metadata:
+  created: 2025-12-01T02:15:00Z
+  impact_score: 0.82
+  tags: [economy, optimization, risk_management]

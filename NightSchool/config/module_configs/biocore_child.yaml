@@ -1,0 +1,3 @@
+module: biocore_child
+priority: high
+notes: "Child safety and biometric signal processing"

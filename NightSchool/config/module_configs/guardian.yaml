@@ -1,0 +1,3 @@
+module: guardian
+priority: high
+notes: "Validation and oversight layer"

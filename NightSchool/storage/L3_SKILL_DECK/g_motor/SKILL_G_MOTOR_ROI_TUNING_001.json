@@ -1,0 +1,39 @@
+{
+  "$schema": "./schemas/skill_card_v2.json",
+  "id": "SKILL:G_MOTOR:ROI_TUNING:001",
+  "version": "2.0",
+  "module": "g_motor",
+  "topic": "roi_optimization",
+  "created": "2025-12-01T02:15:00Z",
+  "last_updated": "2025-12-01T02:15:00Z",
+  "confidence": 0.87,
+  "rule": {
+    "trigger": "When job proposal has ROI < threshold AND risk_score > 0.6",
+    "action": "Adjust criteria: increase required ROI by 15%, flag for manual review if strategic importance > 0.8",
+    "expected_outcome": "Better hit rate on profitable jobs, reduced wasted compute"
+  },
+  "anti_rule": {
+    "never_when": "Job is marked as 'strategic_experiment' OR comes from trusted_partner list",
+    "reason": "Strategic jobs may have indirect ROI not captured in immediate metrics"
+  },
+  "evidence": {
+    "episode_count": 23,
+    "success_rate": 0.87,
+    "refs": [
+      "L2_SEMANTIC:cluster_42",
+      "L2_SEMANTIC:cluster_58",
+      "L1_RAW:economy/2025-11-28_roi_analysis.log"
+    ]
+  },
+  "metadata": {
+    "impact_score": 0.82,
+    "usage_count": 156,
+    "last_validated": "2025-12-01T02:15:00Z",
+    "tags": [
+      "economy",
+      "optimization",
+      "risk_management"
+    ],
+    "deprecates": ["SKILL:G_MOTOR:ROI_TUNING:000"]
+  }
+}

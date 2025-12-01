@@ -1,0 +1,3 @@
+module: g_motor
+priority: low
+notes: "Economic optimization and ROI tuning focus module"
