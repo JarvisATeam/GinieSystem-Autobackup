@@ -1,0 +1,9 @@
+{
+  "id": "SKILL:core.os:HEIMDAL_FIX:001",
+  "module": "core.os",
+  "topic": "heimdal ssh healing",
+  "rule": "When connectivity to Heimdal is unstable or keys are misconfigured, run fix_heimdal.sh to regenerate an ed25519 keypair, push the public key to the active Heimdal IP, rewrite the SSH config alias 'heimdal', refresh known_hosts, and verify the connection with a small rsync roundtrip to /tmp.",
+  "anti_rule": "Do NOT run fix_heimdal.sh if Heimdal IP addressing has changed outside the 10.0.0.2/10.0.0.3 range without first updating the CANDIDATES list. Do not run repeatedly in a tight loop; use it as a recovery tool, not as a heartbeat.",
+  "confidence": 0.93,
+  "refs": ["STATE:core.os", "STATE:HEIMDAL_NODE"]
+}
