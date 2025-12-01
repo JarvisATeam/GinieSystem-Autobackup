@@ -1,0 +1,52 @@
+schedule:
+  night_school_start: "02:00"
+  quick_sync: "14:00"
+
+timing:
+  episode_collection: "15 min"
+  clustering: "10 min"
+  skill_synthesis: "20 min"
+  pruning: "5 min"
+  snapshot_export: "3 min"
+  total_estimated: "~50 min"
+
+modules:
+  enabled:
+    - g_motor
+    - biocore_child
+    - nexus_prime
+    - guardian
+  priority:
+    high: [biocore_child, guardian]
+    medium: [nexus_prime]
+    low: [g_motor]
+
+storage:
+  L1_RAW:
+    ttl_days: 30
+    compression: "zstd"
+    max_size_gb: 2
+  L2_SEMANTIC:
+    max_episodes: 50000
+    prune_threshold: 0.3
+    cluster_recompute: "weekly"
+  L3_SKILL_DECK:
+    max_cards_per_module: 200
+    archive_unused_days: 60
+    min_confidence: 0.5
+
+anthropic:
+  models:
+    collector: "sonnet-4.5"
+    clusterer: "sonnet-4.5"
+    synthesizer: "opus-4.5"
+    pruner: "haiku-4.0"
+  rate_limits:
+    max_requests_per_minute: 50
+    retry_backoff: "exponential"
+
+output:
+  snapshot_format: "json"
+  snapshot_max_tokens: 3000
+  top_n_skills: 30
+  include_stats: true
